@@ -1,0 +1,26 @@
+div.MuiBox-root {
+  background-color: #fff9ed;
+}
+
+table.starTable {
+  width: 100%;
+  border-spacing: 0;
+}
+
+table.starTable th {
+  width: 25%;
+  border-bottom: solid 2px #bc9f65;
+  padding: 10px 10px 10px 20px;
+  text-align: start;
+}
+
+table.starTable td {
+  width: 75%;
+  border-bottom: solid 2px #bc9f65;
+  padding: 10px 10px 10px 20px;
+  text-align: start;
+}
+
+table.starTable tr:nth-child(odd) {
+  background-color: #fff0d1;
+}

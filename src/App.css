@@ -1,0 +1,35 @@
+.noMatch {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.loading {
+  margin-top: 100px;
+  text-align: center;
+}
+
+a.troupeLink.flower:hover {
+  color: #e28194;
+  border-bottom: 3px solid #e28194;
+}
+
+a.troupeLink.moon:hover {
+  color: #f4c33e;
+  border-bottom: 3px solid #f4c33e;
+}
+a.troupeLink.snow:hover {
+  color: #8ab3a1;
+  border-bottom: 3px solid #8ab3a1;
+}
+a.troupeLink.star:hover {
+  color: #5cb7d4;
+  border-bottom: 3px solid #5cb7d4;
+}
+a.troupeLink.cosmos:hover {
+  color: #b179c4;
+  border-bottom: 3px solid #b179c4;
+}
+a.troupeLink.special:hover {
+  color: #574a8a;
+  border-bottom: 3px solid #574a8a;
+}

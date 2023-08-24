@@ -1,0 +1,80 @@
+div.drawerMenu {
+  position: relative;
+  bottom: 60px;
+  left: 40px;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  color: white;
+  background-color: #ffc679;
+  border-radius: 50%;
+  font-size: 24px;
+  transition: all 0.3s;
+}
+
+div.drawerMenu:hover {
+  color: #ffc679;
+  background-color: white;
+}
+
+div.drawerMenu svg {
+  padding-top: 10px;
+  margin-right: 0;
+  cursor: pointer;
+}
+
+nav.EZDrawer__container.troupeDrawer {
+  display: block;
+  background-color: #ffe7c8;
+  justify-content: start;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  padding: 10px 0;
+  /* opacity: 0.5; */
+}
+
+div.drawerTitle {
+  font-size: 26px;
+  height: 70px;
+  line-height: 70px;
+}
+
+div.drawerTitle a {
+  color: #956628;
+  text-decoration: none;
+  padding: 20px 40px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+div.drawerTitle a:hover {
+  color: #dbad72;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+ul.drawerTroupeList {
+  margin-top: 40px;
+  padding: 0;
+}
+
+ul.drawerTroupeList li {
+  height: 70px;
+  line-height: 70px;
+}
+
+ul.drawerTroupeList a {
+  display: block;
+  margin: 8px 50px;
+  color: #956628;
+  text-decoration: none;
+  cursor: pointer;
+  border-bottom: 1px solid #956628;
+  transition: all 0.3s;
+}
+
+ul.drawerTroupeList a:hover {
+  color: #7c592c;
+  border-bottom: 3px solid #7c592c;
+}
