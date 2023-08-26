@@ -67,6 +67,7 @@ div.drawerTitle a:hover {
 ul.drawerTroupeList {
   margin-top: 40px;
   padding: 0;
+  list-style: none;
 }
 
 ul.drawerTroupeList li {
@@ -100,5 +101,18 @@ ul.drawerTroupeList a:hover {
   div.drawerMenu {
     position: relative;
     left: 20px;
+  }
+
+  ul.drawerTroupeList {
+    margin-top: 10px;
+  }
+
+  ul.drawerTroupeList li {
+    height: 50px;
+    line-height: 50px;
+  }
+
+  ul.drawerTroupeList a {
+    margin: 10px 70px 0px 70px;
   }
 }

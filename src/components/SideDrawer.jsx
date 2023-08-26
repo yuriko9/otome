@@ -19,7 +19,7 @@ const SideDrawer = () => {
         <Link
           className={`troupeLink ${key}`}
           onClick={toggleDrawer}
-          to={`/star/${key}`}
+          to={`/otome/star/${key}`}
         >
           {TROUPE_OBJ[key]}
         </Link>
@@ -43,13 +43,13 @@ const SideDrawer = () => {
           <span onClick={toggleDrawer}>{iFaRectangleXmark}</span>
         </div>
         <div className="drawerTitle">
-          <Link onClick={toggleDrawer} to="/">
+          <Link onClick={toggleDrawer} to="/otome/">
             Home
           </Link>
         </div>
         <ul className="drawerTroupeList">
           <li>
-            <Link onClick={toggleDrawer} to="/star">
+            <Link onClick={toggleDrawer} to="/otome/star">
               全生徒一覧
             </Link>
           </li>

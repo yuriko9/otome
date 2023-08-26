@@ -8,7 +8,7 @@ const Home = () => {
   Object.keys(TROUPE_OBJ).forEach((key, index) => {
     linkList.push(
       <li key={index}>
-        <Link className={`troupeLink ${key}`} to={`/star/${key}`}>
+        <Link className={`troupeLink ${key}`} to={`/otome/star/${key}`}>
           {iFaCaretRight}
           {TROUPE_OBJ[key]}
         </Link>
@@ -23,16 +23,27 @@ const Home = () => {
           <div className="topDescription" style={{ fontWeight: "600" }}>
             宝塚おとめWeb版
           </div>
-          <div className="topDescription">
+          <div className="topDescription pc-only">
             <ul className="topLinkList">
               <li>
-                <Link to="/star">
+                <Link to="/otome/star">
                   {iFaCaretRight}
                   全生徒一覧
                 </Link>
               </li>
             </ul>
             <ul className="topLinkList">{linkList}</ul>
+          </div>
+          <div className="topDescription sp-only">
+            <ul className="topLinkList">
+              <li>
+                <Link to="/otome/star">
+                  {iFaCaretRight}
+                  全生徒一覧
+                </Link>
+              </li>
+              {linkList}
+            </ul>
           </div>
         </div>
       </div>

@@ -17,4 +17,7 @@ body {
   .sp-only {
     display: inline;
   }
+  .pc-only {
+    display: none;
+  }
 }

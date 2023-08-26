@@ -32,6 +32,10 @@ ul.topLinkList {
   padding: 0;
 }
 
+ul.topLinkList svg {
+  margin-right: 10px;
+}
+
 ul.topLinkList a {
   color: #956628;
   padding: 10px 20px;
@@ -47,6 +51,7 @@ ul.topLinkList a:hover {
 @media screen and (max-width: 768px) {
   div.topDescription {
     width: 80%;
+    height: 280px;
   }
 
   ul.topLinkList {

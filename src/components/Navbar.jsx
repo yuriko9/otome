@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="otomeNav">
       <div className="navTitle">
-        <Link to="/">
+        <Link to="/otome/">
           Web Otome
           {iFaHeart}
         </Link>

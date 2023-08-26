@@ -15,8 +15,8 @@ function App() {
       <Navbar />
       <SideDrawer />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/star" element={<Star />}>
+        <Route path="/otome/" element={<Home />} />
+        <Route path="/otome/star" element={<Star />}>
           <Route index element={<StarIndex />} />
           <Route path=":troupeName" element={<Troupe />} />
         </Route>

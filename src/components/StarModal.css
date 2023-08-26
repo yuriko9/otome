@@ -1,5 +1,8 @@
 div.MuiBox-root {
   background-color: #fff9ed;
+  max-height: 60vh;
+  overflow: scroll;
+  overflow-x: hidden;
 }
 
 table.starTable {
@@ -28,5 +31,8 @@ table.starTable tr:nth-child(odd) {
 @media screen and (max-width: 768px) {
   div.MuiBox-root {
     width: 80%;
+    max-height: 60vh;
+    overflow: scroll;
+    overflow-x: hidden;
   }
 }
