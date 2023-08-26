@@ -30,8 +30,18 @@ nav.EZDrawer__container.troupeDrawer {
   font-size: 24px;
   font-weight: 600;
   text-align: center;
-  padding: 10px 0;
-  /* opacity: 0.5; */
+  height: 100vh;
+  /* opacity: 0.8; */
+}
+
+div.close-icon {
+  text-align: right;
+}
+
+div.close-icon span {
+  font-size: 30px;
+  cursor: pointer;
+  margin: 0 5px;
 }
 
 div.drawerTitle {
@@ -77,4 +87,18 @@ ul.drawerTroupeList a {
 ul.drawerTroupeList a:hover {
   color: #7c592c;
   border-bottom: 3px solid #7c592c;
+}
+
+@media screen and (max-width: 768px) {
+  div.drawerMenu {
+    position: relative;
+    left: 30px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  div.drawerMenu {
+    position: relative;
+    left: 20px;
+  }
 }

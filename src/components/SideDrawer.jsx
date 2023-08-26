@@ -4,7 +4,7 @@ import "./SideDrawer.css";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { TROUPE_OBJ } from "../types/const";
-import { iFaBars } from "./icon/getIcon";
+import { iFaBars, iFaRectangleXmark } from "./icon/getIcon";
 
 const SideDrawer = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -39,6 +39,9 @@ const SideDrawer = () => {
         size="300px"
         className="troupeDrawer"
       >
+        <div className="close-icon">
+          <span onClick={toggleDrawer}>{iFaRectangleXmark}</span>
+        </div>
         <div className="drawerTitle">
           <Link onClick={toggleDrawer} to="/">
             Home

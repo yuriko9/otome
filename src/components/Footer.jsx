@@ -1,9 +1,7 @@
-import "./Footer.css";
-
 const Footer = () => {
   return (
     <footer>
-      <p>Copyright © 2023 Yurico.</p>
+      <p>Copyright&copy;Yuriko Sano. All Rights Reserved.</p>
     </footer>
   );
 };

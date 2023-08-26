@@ -11,7 +11,6 @@ div.topArea {
   align-items: center;
   width: 800px;
   height: 300px;
-  /* border: 3px dotted black; */
   border-radius: 100px;
   background-color: #fff4e0;
 }
@@ -43,4 +42,18 @@ ul.topLinkList a {
 ul.topLinkList a:hover {
   color: #7c592c;
   border-bottom: 3px solid #7c592c;
+}
+
+@media screen and (max-width: 768px) {
+  div.topDescription {
+    width: 80%;
+  }
+
+  ul.topLinkList {
+    display: block;
+  }
+
+  ul.topLinkList li {
+    margin-bottom: 20px;
+  }
 }

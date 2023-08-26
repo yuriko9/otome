@@ -24,3 +24,9 @@ table.starTable td {
 table.starTable tr:nth-child(odd) {
   background-color: #fff0d1;
 }
+
+@media screen and (max-width: 768px) {
+  div.MuiBox-root {
+    width: 80%;
+  }
+}

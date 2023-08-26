@@ -1,3 +1,19 @@
+footer {
+  width: 100%;
+  height: 60px;
+  text-align: center;
+  position: absolute; /*絶対位置*/
+  bottom: 0; /*下に固定*/
+}
+
+footer p {
+  color: #c5c5c5;
+  font-size: small;
+  line-height: 60px;
+  margin: 0 30px;
+  border-top: 1px solid #d7d7d7;
+}
+
 .noMatch {
   margin-top: 100px;
   text-align: center;
@@ -32,4 +48,26 @@ a.troupeLink.cosmos:hover {
 a.troupeLink.special:hover {
   color: #574a8a;
   border-bottom: 3px solid #574a8a;
+}
+
+@media screen and (max-width: 768px) {
+  a.troupeLink.flower {
+    color: #e28194;
+  }
+
+  a.troupeLink.moon {
+    color: #f4c33e;
+  }
+  a.troupeLink.snow {
+    color: #8ab3a1;
+  }
+  a.troupeLink.star {
+    color: #5cb7d4;
+  }
+  a.troupeLink.cosmos {
+    color: #b179c4;
+  }
+  a.troupeLink.special {
+    color: #574a8a;
+  }
 }
