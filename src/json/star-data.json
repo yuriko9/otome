@@ -3,7 +3,7 @@
     "troupe": "flower",
     "stars": [
       {
-        "id": "ca62345c-7509-4e31-801c-979852515a6f",
+        "id": "4a26f222-7f8b-443a-82c7-db08e24d322a",
         "troupe": "flower",
         "starType": 1,
         "nameJp": "柚香　光",
@@ -18,7 +18,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yuzuka_rei.jpg"
       },
       {
-        "id": "2fcce219-ef23-4cd0-b08e-3491ac5fd8d4",
+        "id": "6f44c15a-5d37-4f1c-a995-4e58a8ae1afc",
         "troupe": "flower",
         "starType": 2,
         "nameJp": "星風　まどか",
@@ -33,7 +33,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hoshikaze_madoka.jpg"
       },
       {
-        "id": "013b440b-e99b-4680-9635-9d94084d03d5",
+        "id": "8c542b33-26b1-46bf-bf6b-98ba163d83e2",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "美風　舞良",
@@ -48,7 +48,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mikaze_maira.jpg"
       },
       {
-        "id": "320e676b-4695-4d94-ab22-49be35118830",
+        "id": "e0d270a3-6a4a-4c20-8ac2-0d93027ec3b3",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "航琉　ひびき",
@@ -63,7 +63,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/wataru_hibiki.jpg"
       },
       {
-        "id": "c9fa43fc-06ba-49d9-98e6-5abd90c3f651",
+        "id": "df4beef9-70bf-4fe8-9458-035bfa4c39ae",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "舞月　なぎさ",
@@ -78,7 +78,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/maizuki_nagisa.jpg"
       },
       {
-        "id": "843e4a65-e2f9-476f-b750-d807a02cfd09",
+        "id": "6121d55d-374a-45ac-ad29-a8d962d6f665",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "和海　しょう",
@@ -93,7 +93,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazumi_sho.jpg"
       },
       {
-        "id": "711d4dd2-d6f9-4a68-b168-8f164ade9d93",
+        "id": "1e02fc16-50f6-4aac-8a94-898c20a3d6c8",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "羽立　光来",
@@ -108,7 +108,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/haryu_mitsuki.jpg"
       },
       {
-        "id": "e9e3f59a-1fea-48e3-90f7-88be2ef93c84",
+        "id": "31ed04d5-b6a0-4f10-b292-f08b2e351486",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "永久輝　せあ",
@@ -123,7 +123,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/towaki_sea.jpg"
       },
       {
-        "id": "256ce8d7-e64b-4839-ac8e-7baee61e474b",
+        "id": "7569e9c4-bbe8-4b61-9e21-28ae77dbcf88",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "春妃　うらら",
@@ -138,7 +138,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/haruhi_urara.jpg"
       },
       {
-        "id": "b4c70455-9837-4c2d-9907-601f8f317682",
+        "id": "51871feb-de79-45b5-881b-bbfd65c04111",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "紅羽　真希",
@@ -153,7 +153,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kureha_maki.jpg"
       },
       {
-        "id": "a3de72b1-c02f-48e0-b1b2-5debafeab42b",
+        "id": "86eb468d-5164-46d5-9499-7dc8af1ba7d7",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "綺城　ひか理",
@@ -168,7 +168,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayaki_hikari.jpg"
       },
       {
-        "id": "a2d6aa60-6320-4b3b-867f-f838de686869",
+        "id": "0f06c71e-f8dc-4c5b-af4c-9ec294f99253",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "峰果　とわ",
@@ -183,7 +183,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mineka_towa.jpg"
       },
       {
-        "id": "13d103be-2e11-4be3-8c78-dc9a70c86984",
+        "id": "0e297402-620c-4e19-9398-d040cf8f203f",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "帆純　まひろ",
@@ -198,7 +198,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hozumi_mahiro.jpg"
       },
       {
-        "id": "cf5caeb9-3090-4f11-8c5c-def949d5d7cd",
+        "id": "6d4e9937-df33-4066-a4c0-d483a6a46d83",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "凛乃　しづか",
@@ -213,7 +213,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/rinno_shizuka.jpg"
       },
       {
-        "id": "b728dd75-1355-44d4-96ac-11b00ac6cd03",
+        "id": "9c152ae7-4701-4590-a86d-135c11104933",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "高峰　潤",
@@ -228,7 +228,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/takamine_jun.jpg"
       },
       {
-        "id": "8b3a9a9b-f2c2-4ecb-b410-a68f9e400028",
+        "id": "8f42cbe1-7c2e-4a2c-9366-4254285bc103",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "糸月　雪羽",
@@ -243,7 +243,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/itotsuki_yukiha.jpg"
       },
       {
-        "id": "bce98bea-8968-4802-ade4-b1ff171a15bd",
+        "id": "e83a1e14-9289-4d2d-bf9f-fa5a8b6c1e2e",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "聖乃　あすか",
@@ -258,7 +258,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/seino_asuka.jpg"
       },
       {
-        "id": "865a20e1-9d67-46c5-8c6f-499a9c2407de",
+        "id": "2e0ac9b0-62d3-48c4-a23b-eb04ea7c03d1",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "泉　まいら",
@@ -273,7 +273,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/izumi_maira.jpg"
       },
       {
-        "id": "c04f58cf-a7ef-4148-8c3b-1447df50d4d4",
+        "id": "d1ab60b8-9c06-4eb6-8bb7-abe0e9d583d6",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "一之瀬　航季",
@@ -288,7 +288,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ichinose_koki.jpg"
       },
       {
-        "id": "5c51b4e6-da83-4206-9f19-e37d460ceb12",
+        "id": "a4a3558b-8fa4-4384-b06f-a9aa8a4515bc",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "和　礼彩",
@@ -303,7 +303,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazu_reisa.jpg"
       },
       {
-        "id": "9e9c13ab-67a4-4443-9791-ca71132ef38e",
+        "id": "fee66559-00cb-4830-9f8b-4a0a822d3740",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "咲乃　深音",
@@ -318,7 +318,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakino_mion.jpg"
       },
       {
-        "id": "5ff18577-efa5-4924-a56b-aa4687855e03",
+        "id": "32accb22-6382-4137-aba4-3f2959ab068e",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "愛乃　一真",
@@ -333,7 +333,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mano_kazuma.jpg"
       },
       {
-        "id": "7df88591-2273-4fe6-a1bf-74e4880a03f1",
+        "id": "91ba3f02-b619-4163-8717-3d431f6e72b1",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "龍季　澪",
@@ -348,7 +348,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tatsuki_mio.jpg"
       },
       {
-        "id": "46874fe5-cd14-427e-a6a4-50076952aad7",
+        "id": "9ccac42f-011f-4b8e-b417-cb682fabab40",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "翼　杏寿",
@@ -363,7 +363,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tsubasa_anju.jpg"
       },
       {
-        "id": "c3102670-820a-4284-b5da-63c8fba91ac7",
+        "id": "1ca61a3f-7208-4969-9d2e-d654b0694baa",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "涼香　希南",
@@ -378,7 +378,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ryoka_kina.jpg"
       },
       {
-        "id": "085a81b0-b5e2-4f18-b80b-e8c95e7cfeb2",
+        "id": "bce87352-e5e7-42fb-b150-48fe0a4d2ecf",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "侑輝　大弥",
@@ -393,7 +393,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yuki_daiya.jpg"
       },
       {
-        "id": "54333575-4bb5-4e9b-99d2-3e3fdc342ebc",
+        "id": "904b2e69-e14f-4923-b090-848c75460aee",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "太凰　旬",
@@ -408,7 +408,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tao_shun.jpg"
       },
       {
-        "id": "cd3a4854-4f9f-4634-9e71-3e95dbd11902",
+        "id": "c063b31b-13e7-480c-b4bd-c1f0c4991cac",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "鈴美梛　なつ紀",
@@ -423,7 +423,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/suzumina_natsuki.jpg"
       },
       {
-        "id": "a237a675-9e0c-4a27-944d-83f2ba22b2e2",
+        "id": "6d20cd48-6fbe-4374-b521-9f0e7d4c2c93",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "三空　凜花",
@@ -438,7 +438,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miku_rinka.jpg"
       },
       {
-        "id": "100b85fb-37ca-498e-bf86-4febd3a0df2d",
+        "id": "b9ed1bae-4900-406f-bbe6-1ecfb6e691d5",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "南音　あきら",
@@ -453,7 +453,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/naoto_akira.jpg"
       },
       {
-        "id": "89bbeae9-f7d8-47a4-a4ce-3fef7e890387",
+        "id": "3ef23670-a642-4f64-b34c-6ba4ee5e34cd",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "朝葉　ことの",
@@ -468,7 +468,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asanoha_kotono.jpg"
       },
       {
-        "id": "7968e895-f179-4c87-9bbf-badbebbe09bf",
+        "id": "b8b79995-0504-4a93-9699-5cdfd5dba0ee",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "涼葉　まれ",
@@ -483,7 +483,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ryoha_mare.jpg"
       },
       {
-        "id": "b44956bd-3b22-4fa8-88ec-70ec0cc7329f",
+        "id": "1812e50e-c523-4aa5-84a5-5d8adceee8c8",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "希波　らいと",
@@ -498,7 +498,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kinami_raito.jpg"
       },
       {
-        "id": "1ab81636-6965-448d-aa22-00988ab888e0",
+        "id": "95ed593c-f6c7-48b3-9f74-4f620a6070e9",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "詩希　すみれ",
@@ -513,7 +513,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shiki_sumire.jpg"
       },
       {
-        "id": "c766c3f6-7bee-4d11-a0cc-ef5bc4240f87",
+        "id": "74ce963a-2fbe-4e62-9ec8-830c9d775fc8",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "海叶　あさひ",
@@ -528,7 +528,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kaito_asahi.jpg"
       },
       {
-        "id": "3a903e8d-8f52-4c8b-85f9-b865bfdea4d2",
+        "id": "67993942-dd46-40ec-974a-096bb6964ae9",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "二葉　ゆゆ",
@@ -543,7 +543,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/futaba_yuyu.jpg"
       },
       {
-        "id": "df3a912f-aaf3-40f8-a991-96068373cfe5",
+        "id": "06cbe369-81a7-490a-89af-ea2a58021136",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "琴美　くらら",
@@ -558,7 +558,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kotomi_kurara.jpg"
       },
       {
-        "id": "3f8d5618-8f26-4299-b096-f56c4a1c4f1b",
+        "id": "daee9ac2-27eb-4a40-bca3-72276c617b67",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "颯美　汐紗",
@@ -573,7 +573,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hayami_shiosa.jpg"
       },
       {
-        "id": "bffe1326-61f1-474e-bcdc-75372161a3f2",
+        "id": "7070c2c4-12b5-4d57-a9cd-250b9b1e60e5",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "天城　れいん",
@@ -588,7 +588,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amashiro_rein.jpg"
       },
       {
-        "id": "2f61d4b5-3ab9-4b49-86b8-9179f8fb004e",
+        "id": "4f1fcfed-ebe5-40fc-8437-aeee5deeb59f",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "愛蘭　みこ",
@@ -603,7 +603,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aira_miko.jpg"
       },
       {
-        "id": "93244fe9-e981-4907-b344-2ed629186212",
+        "id": "21099b52-f577-4955-96ee-9cf5427c1b48",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "美羽　愛",
@@ -618,7 +618,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mihane_ai.jpg"
       },
       {
-        "id": "1444e572-074f-4866-bd77-14363b64a7ef",
+        "id": "1cef78ef-818f-4b03-ab67-791e3061cbb7",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "珀斗　星来",
@@ -633,7 +633,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hakuto_seira.jpg"
       },
       {
-        "id": "31d825e0-6d94-433b-8725-32c4cabb24f6",
+        "id": "80ee77c7-420f-4934-87fe-006400d4ecad",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "美里　玲菜",
@@ -648,7 +648,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/misato_reina.jpg"
       },
       {
-        "id": "10dea4b7-84a1-4d42-a626-651b0f40ff5d",
+        "id": "f1984352-792f-4bcb-860e-0b4ac25b05ac",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "青騎　司",
@@ -663,7 +663,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aoki_tsukasa.jpg"
       },
       {
-        "id": "286fd1bf-24ec-4ec6-aafe-09bb573f646f",
+        "id": "ccf2d7b0-b0ec-4a8b-b765-708bdcfc89b6",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "美空　真瑠",
@@ -678,7 +678,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/misora_maru.jpg"
       },
       {
-        "id": "c3aa194a-0e27-4620-999b-41cf9044ee1d",
+        "id": "cd347427-e0b0-467a-bea0-abbce14a6f0c",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "星空　美咲",
@@ -693,7 +693,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hoshizora_misaki.jpg"
       },
       {
-        "id": "8a3dd4d5-ee18-41e8-b787-1866193dd3c8",
+        "id": "ce8e2795-ead3-4f49-a287-5e05b4c6fa28",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "夏希　真斗",
@@ -708,7 +708,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/natsuki_manato.jpg"
       },
       {
-        "id": "6b870d90-fc0d-4720-8db2-713139822167",
+        "id": "9efdf8ad-8ba5-48c9-bafe-244740e22f84",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "稀奈　ゆい",
@@ -723,7 +723,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/marena_yui.jpg"
       },
       {
-        "id": "6a92fce6-7cee-4f6f-8f54-a1e592c60733",
+        "id": "c2769e9f-f64b-4904-864d-703c88afd616",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "湖華　詩",
@@ -738,7 +738,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kohana_uta.jpg"
       },
       {
-        "id": "0c27ba8b-6a3a-4b89-8aa7-68953b2c880c",
+        "id": "1edec790-832b-4549-80cd-22d28346d235",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "初音　夢",
@@ -753,7 +753,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hatsune_yume.jpg"
       },
       {
-        "id": "ee28b14c-275c-4615-9cb1-d62a0c5fbbc8",
+        "id": "6e7cc02e-db0b-468a-ad5a-b12620c2bbef",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "伶愛輝　みら",
@@ -768,7 +768,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/reaki_mira.jpg"
       },
       {
-        "id": "b45594b0-ad8f-4229-8241-07d950471674",
+        "id": "812edaa2-b0ff-4a0d-8377-b225a0385927",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "鏡　星珠",
@@ -783,7 +783,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kagami_seiju.jpg"
       },
       {
-        "id": "3295d881-79cf-40c4-b3c1-8bdc160f9e75",
+        "id": "ff165834-b9d2-4602-9db6-5d5e341680ff",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "湖春　ひめ花",
@@ -798,7 +798,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/koharu_himeka.jpg"
       },
       {
-        "id": "0220c8eb-d4db-4c34-905b-97e018ae383b",
+        "id": "3744bbbe-0d81-4388-b3b2-f882f3c9265b",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "宇咲　瞬",
@@ -813,7 +813,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/usaki_shun.jpg"
       },
       {
-        "id": "e1b98123-dc03-4140-9ca6-b749846262c7",
+        "id": "80d74032-8602-45e7-b14d-f006e9452d6f",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "遼　美来",
@@ -828,7 +828,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ryo_mikuru.jpg"
       },
       {
-        "id": "dab20e06-db66-4df0-8166-dff77cfcc1a3",
+        "id": "63ca7002-69d7-432a-9fd8-bd48bfeaeea0",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "真澄　ゆかり",
@@ -843,7 +843,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/masumi_yukari.jpg"
       },
       {
-        "id": "1ece633d-b1ab-4e9c-b4f6-7a0f48058dd4",
+        "id": "d9690093-b4d0-4c93-9850-ce1f93c22146",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "月翔　きら",
@@ -858,7 +858,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tsukisho_kira.jpg"
       },
       {
-        "id": "7762ca10-6353-481e-a35c-e9f67907f773",
+        "id": "08b76efa-c03d-4738-93cd-bf82e75550f3",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "美遥　あゆ",
@@ -873,7 +873,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miharu_ayu.jpg"
       },
       {
-        "id": "2449b5bd-74d3-410a-ab53-1b7a0d4fc914",
+        "id": "5560e113-c437-4788-8d26-3109d7c301f5",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "慧那　まや",
@@ -888,7 +888,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/keina_maya.jpg"
       },
       {
-        "id": "2178c9ba-3464-4c52-8739-2ccfaead0df7",
+        "id": "df638dd7-3d3c-4c20-babf-211db591ae0c",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "七彩　はづき",
@@ -903,7 +903,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nanairo_hazuki.jpg"
       },
       {
-        "id": "91a12cb7-9866-47da-824b-d42cc14185a6",
+        "id": "86284d93-2b6f-4c7e-bf35-385389d8c887",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "希蘭　るね",
@@ -918,7 +918,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kiran_rune.jpg"
       },
       {
-        "id": "2b680aae-38e9-4180-aa02-9822e100afea",
+        "id": "cabcef21-9c77-44f5-8123-23fff2471373",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "瀬七波　いろ",
@@ -933,7 +933,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/senaha_iro.jpg"
       },
       {
-        "id": "08dd67f8-edd0-42c2-b323-bbe5a4311f74",
+        "id": "b5906153-2dfd-4937-a97b-4c6a057fed58",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "咲良　さき",
@@ -948,7 +948,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakura_saki.jpg"
       },
       {
-        "id": "ae367981-398a-4831-bb54-f3f101f3d824",
+        "id": "2fb00538-1d13-42fd-b23f-f5bc1592f38e",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "常和　紅葉",
@@ -963,7 +963,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tokiwa_kureha.jpg"
       },
       {
-        "id": "1a4bdf47-ec06-42e8-a452-76238dec67bc",
+        "id": "90de8ace-d497-44dc-b738-6a10f5c3e1e5",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "華波　侑希",
@@ -978,7 +978,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kanami_yuki.jpg"
       },
       {
-        "id": "8fba4173-a707-4fe8-a590-151192114e7c",
+        "id": "78aa59a7-c606-4652-8a9d-0dd8657cbd54",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "花海　凛",
@@ -993,7 +993,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanami_rin.jpg"
       },
       {
-        "id": "57a43fd3-d854-4d4d-bab9-4618a901e788",
+        "id": "1750d70d-f6bb-4403-ae1c-6f9670c6a429",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "滝　みらい",
@@ -1008,7 +1008,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/taki_mirai.jpg"
       },
       {
-        "id": "cbad8916-2af8-4525-a85f-468b4bd6352e",
+        "id": "1ef83e5c-54cd-4caa-b962-7e41ff378133",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "光稀　れん",
@@ -1023,7 +1023,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/koki_ren.jpg"
       },
       {
-        "id": "c53593b9-6dbf-45a3-9279-e343ced30b06",
+        "id": "c911436a-6a73-40f6-a252-c0104e489d2f",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "纏　涼",
@@ -1038,7 +1038,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/matoi_ryo.jpg"
       },
       {
-        "id": "97e5aaf4-8989-4b98-b9d8-44ae6910bfcd",
+        "id": "6d3b388c-8101-4e95-a745-274c548d7e57",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "美翠　せいら",
@@ -1053,7 +1053,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/misui_seira.jpg"
       },
       {
-        "id": "bcdfc730-b203-452e-9d7c-d179519d2d97",
+        "id": "7d166d7a-f7d5-4dad-a0b6-929e266653d4",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "華路　らら",
@@ -1068,7 +1068,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanamichi_rara.jpg"
       },
       {
-        "id": "b4c28f1c-01c0-4823-a734-e9c4dc7ff1dc",
+        "id": "bdbc946c-a245-4748-9115-53f8f449a76e",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "輝涼　じゅん",
@@ -1083,7 +1083,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kiryo_jun.jpg"
       },
       {
-        "id": "8538c681-36ca-462b-bdc0-6cca115dc4a9",
+        "id": "993e605e-234a-42e0-900b-84a12cb3bd6f",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "翠笙　芹南",
@@ -1098,7 +1098,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/suisho_serina.jpg"
       },
       {
-        "id": "8c88284b-5cba-43ae-9ea6-159f69d48573",
+        "id": "44281936-9a46-44f0-bca1-4107fbfdfb22",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "月世　麗",
@@ -1113,7 +1113,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tsukiyo_rei.jpg"
       },
       {
-        "id": "a238feea-0b8c-4ca8-a2cd-49952a6a04e1",
+        "id": "1ef17b49-5905-449f-ab19-416cfbefe388",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "風美　はる帆",
@@ -1128,7 +1128,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazami_haruho.jpg"
       },
       {
-        "id": "9bea7f72-546d-4d52-ab62-7cd8139a9586",
+        "id": "126f0a0d-7072-4d5d-a8c0-ec0a06a6fcbf",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "花綺　ちさと",
@@ -1143,7 +1143,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanaki_chisato.jpg"
       },
       {
-        "id": "894f7615-56cd-4863-850c-5303ef5f6078",
+        "id": "8ee0402b-819f-43c1-ad80-177a43726ac7",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "風白　ルイ",
@@ -1158,7 +1158,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazeshiro_rui.jpg"
       },
       {
-        "id": "824f51c4-dbce-43a0-b89f-17ac3d4c7832",
+        "id": "a1586e0b-3e2d-4f4a-926e-0979099442d0",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "夢希　舞香",
@@ -1173,7 +1173,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yumeki_maika.jpg"
       },
       {
-        "id": "c04c2027-c455-4d14-8765-86c0c2df16a6",
+        "id": "bc3fe103-e623-4c0c-80de-3090ee86fa5a",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "咲葉　えめ",
@@ -1188,7 +1188,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakiha_eme.jpg"
       },
       {
-        "id": "1cb6d108-19d9-4237-9249-964b3f6e8789",
+        "id": "f1d96330-4918-4a03-ae86-5b5384716152",
         "troupe": "flower",
         "starType": 3,
         "nameJp": "優帆　なぎさ",
@@ -1208,7 +1208,7 @@
     "troupe": "moon",
     "stars": [
       {
-        "id": "3be681a3-7614-4558-83f2-94e09d8c8502",
+        "id": "b790e416-37f0-4528-8aa5-9b53af3cdcf0",
         "troupe": "moon",
         "starType": 1,
         "nameJp": "月城　かなと",
@@ -1223,7 +1223,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tsukishiro_kanato.jpg"
       },
       {
-        "id": "2bf0a2c5-a295-471a-b3e4-ae956878d008",
+        "id": "0cd2dbbe-348f-4a1b-8a87-7c7302579fdf",
         "troupe": "moon",
         "starType": 2,
         "nameJp": "海乃　美月",
@@ -1238,7 +1238,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/umino_mitsuki.jpg"
       },
       {
-        "id": "11427646-80a3-49eb-8d45-5456fb46bcd1",
+        "id": "27a8186e-d3f8-49f8-94c4-f601e8b87d9f",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "梨花　ますみ",
@@ -1253,7 +1253,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/rika_masumi.jpg"
       },
       {
-        "id": "8c32a5a5-9e5f-4f0e-acc7-45c6c8c28edc",
+        "id": "25f60493-ec69-4911-b3e0-860a8d931e06",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "白雪　さち花",
@@ -1268,7 +1268,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shirayuki_sachika.jpg"
       },
       {
-        "id": "c48aa4ac-63f5-4c3e-9720-69cad41e8914",
+        "id": "2668e019-af88-4881-a33e-7b7be7ebd3b5",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "鳳月　杏",
@@ -1283,7 +1283,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hozuki_an.jpg"
       },
       {
-        "id": "75e317de-6f76-414d-840a-a26cc2a3a0bd",
+        "id": "9843a5a9-284e-4fc3-bab5-178b2d7e267d",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "春海　ゆう",
@@ -1298,7 +1298,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/harumi_yu.jpg"
       },
       {
-        "id": "2cc8bc26-51e3-48bc-bfa0-9f39918fb0fd",
+        "id": "984733db-215a-4f71-bd51-632e67efa6ca",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "夢奈　瑠音",
@@ -1313,7 +1313,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yumena_rune.jpg"
       },
       {
-        "id": "35f93d5b-25af-4618-8a3a-0a873f8c65ac",
+        "id": "c859b033-74b3-4929-8ca5-da346372bfe8",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "蓮　つかさ",
@@ -1328,7 +1328,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ren_tsukasa.jpg"
       },
       {
-        "id": "7bd3106d-4897-4598-8e67-679d555a6128",
+        "id": "8f0ba450-97b5-4f11-8d68-6c70799603c2",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "佳城　葵",
@@ -1343,7 +1343,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kashiro_aoi.jpg"
       },
       {
-        "id": "2c69a767-7ed0-4c01-be9b-4b3c173d40c9",
+        "id": "bd318485-6daf-4ea1-a0b3-9b473f2b48e5",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "麗　泉里",
@@ -1358,7 +1358,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/urara_senri.jpg"
       },
       {
-        "id": "9b1b3a74-e9df-49ae-969c-4b2c5cc9f9fd",
+        "id": "5aad4cec-b7b3-4161-86ad-9fb3b36bc8ea",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "英　かおと",
@@ -1373,7 +1373,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanabusa_kaoto.jpg"
       },
       {
-        "id": "1b9d4f37-b25a-4b67-9e3f-60463bac6645",
+        "id": "e8f939c4-8e51-4990-b62f-3d197a15326e",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "彩　みちる",
@@ -1388,7 +1388,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/irodori_michiru.jpg"
       },
       {
-        "id": "698f74b2-3af7-4dd4-b100-9f2778436f96",
+        "id": "2873e079-9b33-45b3-ac7f-74d8960b4e38",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "朝陽　つばさ",
@@ -1403,7 +1403,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asahi_tsubasa.jpg"
       },
       {
-        "id": "61f9795f-06b0-4ed5-9f44-ae96f726ea36",
+        "id": "d33c1332-30da-4234-b470-679c88decc0d",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "蘭　尚樹",
@@ -1418,7 +1418,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ran_naoki.jpg"
       },
       {
-        "id": "f5d7cd68-ab55-4df6-a9cf-41c2abbd94ce",
+        "id": "9d642ce1-eef3-471f-88f5-381ae22159af",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "風間　柚乃",
@@ -1433,7 +1433,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazama_yuno.jpg"
       },
       {
-        "id": "d315bb5e-ed7a-491d-8e58-c5eb31228d9d",
+        "id": "cda1d5c0-a26b-4fca-b9a9-12f9413843cf",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "桃歌　雪",
@@ -1448,7 +1448,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/momoka_yuki.jpg"
       },
       {
-        "id": "3496485f-4d3f-4099-a935-b5cf27e5d79a",
+        "id": "7b470112-dc56-41e0-a8c9-630ee2c123b0",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "空城　ゆう",
@@ -1463,7 +1463,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sorashiro_yu.jpg"
       },
       {
-        "id": "e5adf896-bd8a-4e92-96c3-f2a5db462b55",
+        "id": "4fb770c2-f840-4833-8c0e-38b254fbfb74",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "妃純　凛",
@@ -1478,7 +1478,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hisumi_rin.jpg"
       },
       {
-        "id": "a99845fc-6344-436d-ade8-e0ead8f8675d",
+        "id": "36254337-a087-4321-af27-9cf6b8cc6ddf",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "天紫　珠李",
@@ -1493,7 +1493,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amashi_juri.jpg"
       },
       {
-        "id": "65eede67-84f6-459f-8c31-929dc9c7d9a4",
+        "id": "86887b40-42c4-4352-b983-cdfdec23d598",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "彩音　星凪",
@@ -1508,7 +1508,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayaoto_sena.jpg"
       },
       {
-        "id": "bd845450-a788-4d2c-8293-5b37a59160a2",
+        "id": "4c4d0639-c987-41ae-ac9e-08d8db87314f",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "礼華　はる",
@@ -1523,7 +1523,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/reika_haru.jpg"
       },
       {
-        "id": "f3bd2b4a-a9d8-478d-ae27-5673c28fb892",
+        "id": "8b90a7d5-fb7c-4079-86ac-ae1dfe898711",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "甲海　夏帆",
@@ -1538,7 +1538,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/komi_natsuho.jpg"
       },
       {
-        "id": "d0cf831e-8de0-4aa8-a94f-f44c7330babf",
+        "id": "350f0458-9059-4262-aa46-24c22b4b7e3e",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "彩海　せら",
@@ -1553,7 +1553,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayami_sera.jpg"
       },
       {
-        "id": "511fca5e-ce13-4594-b9c1-4ebd0e6c84a4",
+        "id": "5161a9c8-082f-4d7f-bc01-3a2fa12c5769",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "天愛　るりあ",
@@ -1568,7 +1568,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amana_ruria.jpg"
       },
       {
-        "id": "1743d2f8-d1cf-414e-be21-803f803626e9",
+        "id": "ea3bf1ff-6be5-4df5-aecc-aadfe34ca5d2",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "菜々野　あり",
@@ -1583,7 +1583,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nanano_ari.jpg"
       },
       {
-        "id": "a67cc1ef-97c1-47b8-926c-0681ab5fe7ce",
+        "id": "bd7ff6a0-5b2c-4a24-82c2-16b52af9a153",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "柊木　絢斗",
@@ -1598,7 +1598,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hiragi_ayato.jpg"
       },
       {
-        "id": "418fc756-ed98-4d6a-920c-80f825160211",
+        "id": "bcc5980c-e8a0-405a-bae6-4bdd44157baa",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "一星　慧",
@@ -1613,7 +1613,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/issei_kei.jpg"
       },
       {
-        "id": "9de0b107-e357-40c1-8750-f837a93adb46",
+        "id": "f58ebd10-1a78-46c7-9dde-9ed360be13ef",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "大楠　てら",
@@ -1628,7 +1628,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/okusu_tera.jpg"
       },
       {
-        "id": "fe806621-537d-46d8-84cf-f30e70d7d40f",
+        "id": "74a17a6c-105b-49c8-8ef4-90e5a9b3761b",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "白河　りり",
@@ -1643,7 +1643,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shirakawa_riri.jpg"
       },
       {
-        "id": "3e297f11-3726-4e4c-bdbe-0cbc5f5a13d1",
+        "id": "17ecccbd-ac7f-42c3-81b5-ccf4a7688f4f",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "瑠皇　りあ",
@@ -1658,7 +1658,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ruo_ria.jpg"
       },
       {
-        "id": "cdfafcaf-a167-4ac4-81ac-c757c88572a4",
+        "id": "8c9f8969-f8e2-4514-a714-472a17abede5",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "羽音　みか",
@@ -1673,7 +1673,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/haon_mika.jpg"
       },
       {
-        "id": "71b9b1fb-c67f-4426-9b37-c9f60706579d",
+        "id": "34214e47-dd88-47a2-b487-f8f30ad64c03",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "彩路　ゆりか",
@@ -1688,7 +1688,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayaji_yurika.jpg"
       },
       {
-        "id": "671c89dd-ca38-436a-856e-e6f3fbcdbb3e",
+        "id": "e8b704ae-9a10-44b5-8b29-6c88a4d5ac54",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "まのあ　澪",
@@ -1703,7 +1703,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/manoa_mio.jpg"
       },
       {
-        "id": "3c817e8b-ebc2-4c51-950e-38d76f1cef04",
+        "id": "a3268e57-0368-46f8-8b66-eb9d2d57034f",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "爽　悠季",
@@ -1718,7 +1718,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/so_yuki.jpg"
       },
       {
-        "id": "2144e6b9-cb5e-4b0c-b199-0ad87d87d2b0",
+        "id": "cf756707-37df-46d6-9f56-2bbbc3199d86",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "毬矢　ソナタ",
@@ -1733,7 +1733,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mariya_sonata.jpg"
       },
       {
-        "id": "21d84272-cba5-4630-be1e-4b3c1467e90a",
+        "id": "d84276e4-40b1-424f-948a-d9548e56cd74",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "きよら　羽龍",
@@ -1748,7 +1748,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kiyora_haryu.jpg"
       },
       {
-        "id": "0d6bd3a0-56dd-4225-9f2a-cbe80253c534",
+        "id": "098b272e-0fec-4b13-8ef7-7debae9ac863",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "咲彩　いちご",
@@ -1763,7 +1763,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/saaya_ichigo.jpg"
       },
       {
-        "id": "b2fc3bba-2b73-434c-939f-c22b39852bba",
+        "id": "3c76c7fa-9cab-48e1-b7fc-ca08a21f6fbb",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "真弘　蓮",
@@ -1778,7 +1778,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mahiro_ren.jpg"
       },
       {
-        "id": "2964be8c-e067-4194-9d79-504a0114ea5f",
+        "id": "d5003a55-c7b0-424e-8c4d-2aacfe01a421",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "美海　そら",
@@ -1793,7 +1793,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miumi_sora.jpg"
       },
       {
-        "id": "f1bdc9ad-08cd-4fb3-bab6-64d4418fa06d",
+        "id": "4d831c5e-8ede-47c2-9ff2-384e593a7749",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "月乃　だい亜",
@@ -1808,7 +1808,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tsukino_daia.jpg"
       },
       {
-        "id": "43a2670d-bb00-4876-be29-d5699b3a9dfe",
+        "id": "f96de4e5-b99d-4fd1-b031-25258ec5ff96",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "朝香　ゆらら",
@@ -1823,7 +1823,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asaka_yurara.jpg"
       },
       {
-        "id": "b50829e2-94a0-4578-8c2e-b9ebb329de39",
+        "id": "0eb97561-5875-4e67-ae21-d5c9648cbbf9",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "静音　ほたる",
@@ -1838,7 +1838,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shizune_hotaru.jpg"
       },
       {
-        "id": "953379c3-488a-4d9e-8563-f500fadbbe60",
+        "id": "620b1383-d260-422a-9cf8-9f111850092e",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "七城　雅",
@@ -1853,7 +1853,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nanashiro_miyabi.jpg"
       },
       {
-        "id": "c3951cea-5242-4081-a32a-8666f35d536e",
+        "id": "290c739b-f547-4a13-bfaa-73deafa736db",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "槙　照斗",
@@ -1868,7 +1868,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/maki_teruto.jpg"
       },
       {
-        "id": "71df7145-e49f-44c6-9720-27498b9714db",
+        "id": "05f7d980-ec19-4b71-a7d0-a4f2778ce412",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "奏羽　美緒",
@@ -1883,7 +1883,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kanaha_mio.jpg"
       },
       {
-        "id": "22ebbeb3-ac10-4722-ad70-16989bff8958",
+        "id": "f55f7c1e-a637-4ccb-a468-483b348e7f34",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "遥稀　れお",
@@ -1898,7 +1898,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/haruki_reo.jpg"
       },
       {
-        "id": "1ccbdd5b-ca93-4ad0-a1fa-b2a5add8f47b",
+        "id": "65f4e472-18ab-44ac-b1d4-28f44adb76a7",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "水城　あおい",
@@ -1913,7 +1913,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mizushiro_aoi.jpg"
       },
       {
-        "id": "73ce9280-4c6b-4c65-882f-09d5bc7494b2",
+        "id": "4165004b-4e08-4917-93ad-9c22c061f1ad",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "一乃　凜",
@@ -1928,7 +1928,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ichino_rin.jpg"
       },
       {
-        "id": "2ed77f1c-f519-4614-84fe-2ac2be13478e",
+        "id": "cc4055cd-5252-458b-b47d-d2d890ea6e2d",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "花妃　舞音",
@@ -1943,7 +1943,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanahime_manon.jpg"
       },
       {
-        "id": "0f693fb6-1bc7-49b7-8f26-f012558e4e51",
+        "id": "c2abc83e-8f80-47dd-8f72-5a1834690d1a",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "和真　あさ乃",
@@ -1958,7 +1958,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazuma_asano.jpg"
       },
       {
-        "id": "37a1453e-5de4-4196-8384-145874944135",
+        "id": "70022fa9-bb14-404a-bf30-276f81387a64",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "蘭叶　みり",
@@ -1973,7 +1973,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ranka_miri.jpg"
       },
       {
-        "id": "08bcc58d-8dd2-433e-8952-fef7de16c84b",
+        "id": "a004a44e-390e-4b2d-b9ef-3ddd5cd50000",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "涼宮　蘭奈",
@@ -1988,7 +1988,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/suzumiya_ranna.jpg"
       },
       {
-        "id": "33262231-b91c-422a-959e-c608819072c8",
+        "id": "af9430c9-20b5-4942-9564-bb13c8a1c84d",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "澪　あゆと",
@@ -2003,7 +2003,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mio_ayuto.jpg"
       },
       {
-        "id": "f666d093-41be-4dd7-82c9-2b5661c6e866",
+        "id": "c5dcf39e-8905-46dd-8ab5-5195846b42f8",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "綺乃　ゆず",
@@ -2018,7 +2018,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayano_yuzu.jpg"
       },
       {
-        "id": "553b8305-15ec-441d-8424-6b89b4f9d7d4",
+        "id": "20581380-c390-4d45-ac52-59a897dbdc67",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "大瀬　いぶき",
@@ -2033,7 +2033,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ose_ibuki.jpg"
       },
       {
-        "id": "bf5fcd4c-bd06-46dd-9c3d-6f4cd8ada0cb",
+        "id": "0a00b9b2-8d11-4b18-9233-d69dbd8a1e29",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "天つ風　朱李",
@@ -2048,7 +2048,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amatsukaze_shuri.jpg"
       },
       {
-        "id": "899ae176-2c38-4393-ada8-647753438cce",
+        "id": "7d7e24a6-9238-40eb-9adc-5784ff8169e5",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "澪花　えりさ",
@@ -2063,7 +2063,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mioka_erisa.jpg"
       },
       {
-        "id": "073f712f-a3a3-4b5e-ac58-04177b4e84fb",
+        "id": "815bf200-19d9-4ca2-9280-46e9f1b2e680",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "華羽　りみ",
@@ -2078,7 +2078,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanahane_rimi.jpg"
       },
       {
-        "id": "6ce8156f-4e2a-4060-9d64-20515073668b",
+        "id": "17b71db3-eb03-4859-93c1-63f2b074611c",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "一輝　翔琉",
@@ -2093,7 +2093,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ichiki_kakeru.jpg"
       },
       {
-        "id": "98f0e5d5-c6b6-4fc8-8654-5a9ecdafacb6",
+        "id": "386456a6-7699-4637-a5ad-1696a91e8e07",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "美颯　りひと",
@@ -2108,7 +2108,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mihaya_rihito.jpg"
       },
       {
-        "id": "107e4fde-6544-48a3-94c8-effe600077cc",
+        "id": "9f89345b-0320-4389-b620-43a022491a68",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "愛梛　ちとせ",
@@ -2123,7 +2123,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aina_chitose.jpg"
       },
       {
-        "id": "e9e892d5-f6a8-4162-8362-09e96788ed60",
+        "id": "c58e48ed-c8b3-4281-bcb3-270906d5f62b",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "相星　旬",
@@ -2138,7 +2138,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aihoshi_shun.jpg"
       },
       {
-        "id": "63ada84c-f47b-43df-853f-abc008d36f2b",
+        "id": "dbe08f88-38a2-43c9-99d3-e5ed866027db",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "彩姫　みみ",
@@ -2153,7 +2153,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayahime_mimi.jpg"
       },
       {
-        "id": "93c88005-540d-4d26-a22b-c08db624277c",
+        "id": "4050a7e5-46b0-431c-8463-fff2ac3e5134",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "美渦　せいか",
@@ -2168,7 +2168,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miuzu_seika.jpg"
       },
       {
-        "id": "911b6223-9a51-4293-b4dd-f471ed34055d",
+        "id": "e7e4b622-7ecd-48ac-9ff4-664cfb2a4856",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "穂波　舞咲",
@@ -2183,7 +2183,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/honami_masaki.jpg"
       },
       {
-        "id": "b46c54b4-15b9-461e-a345-3a0bd04cf560",
+        "id": "ad5de0af-aed6-48c2-bea1-d51e4a21b239",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "星丘　しずく",
@@ -2198,7 +2198,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hoshioka_shizuku.jpg"
       },
       {
-        "id": "e803f6b0-4836-43f1-907c-7caebaf3d3f2",
+        "id": "772a0f7d-bdfe-4962-b7a4-b851b71bfb90",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "八重　ひめか",
@@ -2213,7 +2213,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yae_himeka.jpg"
       },
       {
-        "id": "bfefc846-ef25-48b2-8f12-1ee9c42454fb",
+        "id": "78c2e56f-5a40-4e4a-9105-3072b2d9c944",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "雅　耀",
@@ -2228,7 +2228,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miyabi_yo.jpg"
       },
       {
-        "id": "a0954449-4f94-4f7f-82e4-6be3e69f94f9",
+        "id": "79b67c9f-b353-4745-a9a6-313c3c127b2f",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "桜之　真緒",
@@ -2243,7 +2243,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakurano_mao.jpg"
       },
       {
-        "id": "b36069e4-9bb8-4ef9-a53e-63623b8c7e0d",
+        "id": "8d03bb67-cca9-4b74-ad61-44dde2a9643a",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "白霧　椿",
@@ -2258,7 +2258,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shiragiri_tsubaki.jpg"
       },
       {
-        "id": "2797ebd6-e022-45fa-be11-f3d4d9ebbd0f",
+        "id": "5bf97d72-7301-4e1d-84d2-b0d5ed72b80a",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "帆華　なつ海",
@@ -2273,7 +2273,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hobana_natsumi.jpg"
       },
       {
-        "id": "b979f85a-efd4-46de-8f83-b0d1f3bd597f",
+        "id": "6adae916-efdb-4aa1-abd3-e75d93a62de3",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "乃々　れいあ",
@@ -2288,7 +2288,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nono_reia.jpg"
       },
       {
-        "id": "dad3d578-d94f-4855-b087-983631cc2688",
+        "id": "e8cb0597-e007-4394-832f-7b1f409d4c80",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "翔　ゆり愛",
@@ -2303,7 +2303,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sho_yuria.jpg"
       },
       {
-        "id": "4534c555-b6dd-48d7-a1ee-b1b3f8133ff1",
+        "id": "8c338faa-5ef2-463a-a560-aa23a9ada525",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "朱鷺　あおい",
@@ -2318,7 +2318,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/toki_aoi.jpg"
       },
       {
-        "id": "cf3296df-6215-4c02-b9b0-e920c3510118",
+        "id": "607278ae-12ee-455f-9ae3-5fde6e9bd1e5",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "梨乃　すずらん",
@@ -2333,7 +2333,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/rino_suzuran.jpg"
       },
       {
-        "id": "b8630ebf-4d71-4e98-be29-ad47bf0f8c10",
+        "id": "44f71996-2d1d-4ecb-adad-d32fdac414eb",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "飛翔　れいや",
@@ -2348,7 +2348,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hisho_reiya.jpg"
       },
       {
-        "id": "25c05ff5-bc61-4b2a-873a-fdd2dad3d7e1",
+        "id": "a7d23cb6-84d5-4f66-bbfc-dbc4243e5b23",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "日向　みなき",
@@ -2363,7 +2363,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hyuga_minaki.jpg"
       },
       {
-        "id": "023a5e68-a94c-4eb8-a800-ffa2923b0468",
+        "id": "f2e874e2-1d30-4d91-abfe-fd37af53cf59",
         "troupe": "moon",
         "starType": 3,
         "nameJp": "央河　希涼",
@@ -2383,7 +2383,7 @@
     "troupe": "snow",
     "stars": [
       {
-        "id": "a5e097f8-f905-4152-93b6-ec7aaa5c0eb6",
+        "id": "5ae9d7d8-5416-4aa9-85a9-bcc1d0d629a8",
         "troupe": "snow",
         "starType": 1,
         "nameJp": "彩風　咲奈",
@@ -2398,7 +2398,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayakaze_sakina.jpg"
       },
       {
-        "id": "f5bb2d0c-8479-4547-812f-ec17e402b678",
+        "id": "441dfd64-7942-4bb1-95c2-2a0cd3a479b1",
         "troupe": "snow",
         "starType": 2,
         "nameJp": "夢白　あや",
@@ -2413,7 +2413,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yumeshiro_aya.jpg"
       },
       {
-        "id": "8f1fcd79-6662-4190-8284-7db68408c2f4",
+        "id": "676646c5-c19b-4bcf-b95e-5813c2199eb6",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "奏乃　はると",
@@ -2428,7 +2428,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sono_haruto.jpg"
       },
       {
-        "id": "262d6259-42bd-4b96-903a-9e75e3ae285a",
+        "id": "11084e0a-6b13-43b3-b232-c28450fd9611",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "透真　かずき",
@@ -2443,7 +2443,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/toma_kazuki.jpg"
       },
       {
-        "id": "9173b1b5-4cc9-4423-98ec-cb11e12e0603",
+        "id": "fa9fb1d4-819c-4b6f-9cfb-bb373fe89ddc",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "真那　春人",
@@ -2458,7 +2458,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mana_haruto.jpg"
       },
       {
-        "id": "c21b75a7-10df-4987-9132-1b6627b6c0e5",
+        "id": "e2b4a771-f4c9-427b-a819-594abcccc5ff",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "久城　あす",
@@ -2473,7 +2473,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kujo_asu.jpg"
       },
       {
-        "id": "70ba45a8-abe2-498c-8f9f-ba04fc2bfd8f",
+        "id": "d581d11e-0877-47f2-a71b-2814ac86c814",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "杏野　このみ",
@@ -2488,7 +2488,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/anno_konomi.jpg"
       },
       {
-        "id": "31b90eba-9b32-4414-a039-a133816f73e4",
+        "id": "a12c9120-acd7-4553-b71c-83e8448b438f",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "朝美　絢",
@@ -2503,7 +2503,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asami_jun.jpg"
       },
       {
-        "id": "cea4d5d6-2bf3-4de7-bec3-409b903c4300",
+        "id": "87cbf231-9b82-4de4-8667-35bda7c73832",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "愛　すみれ",
@@ -2518,7 +2518,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ai_sumire.jpg"
       },
       {
-        "id": "cef7501d-ef33-43c7-89d3-c9efc6105f96",
+        "id": "27da04da-777f-4289-87d7-761ed147e716",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "桜路　薫",
@@ -2533,7 +2533,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/oji_kaoru.jpg"
       },
       {
-        "id": "79cad12b-7d6d-4b0a-8150-40e9ad2b77c2",
+        "id": "42c61da6-01b5-4f15-b341-2312a2a357f0",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "天月　翼",
@@ -2548,7 +2548,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amatsuki_tsubasa.jpg"
       },
       {
-        "id": "3b561af9-e481-42e5-a11c-cac82aa00aba",
+        "id": "ac901d7f-6d27-415c-bafa-f3f9813ef473",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "和希　そら",
@@ -2563,7 +2563,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazuki_sora.jpg"
       },
       {
-        "id": "2aae8950-fb77-4d31-b2db-ae7fccb4ad8d",
+        "id": "804374f5-8d26-41ef-af82-e2141b3ada15",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "妃華　ゆきの",
@@ -2578,7 +2578,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/himehana_yukino.jpg"
       },
       {
-        "id": "d7d17158-5ae8-4173-87b8-7d3358156353",
+        "id": "47f1dd52-81c2-4af7-bc86-f41588e8babf",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "沙羅　アンナ",
@@ -2593,7 +2593,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sara_anna.jpg"
       },
       {
-        "id": "6aa74bd2-d5bd-4c83-990c-c784f8eba081",
+        "id": "4dd8a751-cf86-4bf2-be25-6a309a10b448",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "叶　ゆうり",
@@ -2608,7 +2608,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kano_yuri.jpg"
       },
       {
-        "id": "29a17c48-d8d3-4090-a074-9e8fc3ed1d8e",
+        "id": "a0ab5f29-ba8f-4ae5-a69e-14d1433d9390",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "諏訪　さき",
@@ -2623,7 +2623,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/suwa_saki.jpg"
       },
       {
-        "id": "3eb9ca14-269d-4b87-92b9-6264f892ecae",
+        "id": "37929dbf-3e57-4187-9175-bcc34e88149b",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "野々花　ひまり",
@@ -2638,7 +2638,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nonoka_himari.jpg"
       },
       {
-        "id": "de129217-1f2f-42a9-8f78-df52e944e962",
+        "id": "d5ffc351-e472-46b0-ae66-db93c37020ab",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "希良々　うみ",
@@ -2653,7 +2653,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kirara_umi.jpg"
       },
       {
-        "id": "fc7456d0-99d9-4fcf-97cc-b3cb4c109c94",
+        "id": "f7af1d84-147d-4a48-84fa-271ec482850b",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "眞ノ宮　るい",
@@ -2668,7 +2668,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/manomiya_rui.jpg"
       },
       {
-        "id": "b88cb49c-ac5e-4e25-9cd7-58e76db8b573",
+        "id": "1461eb34-4bf1-4dc9-992f-0cd5b507474b",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "縣　千",
@@ -2683,7 +2683,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/agata_sen.jpg"
       },
       {
-        "id": "f5b50ea7-2aa6-4fd2-ab66-9684d406cd98",
+        "id": "d59d245e-9c10-4e69-98fa-a2ba4e2b385d",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "琴羽　りり",
@@ -2698,7 +2698,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kotohane_riri.jpg"
       },
       {
-        "id": "9837c17e-47a5-470d-b6aa-3bd01ada1d83",
+        "id": "765d935d-fd3b-49d8-87cf-5363d352357a",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "麻斗　海伶",
@@ -2713,7 +2713,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asato_mire.jpg"
       },
       {
-        "id": "cdc56ced-3583-49f6-9a5c-4f592ef38741",
+        "id": "5fe7ff71-4de1-4abb-bc30-e9c795924436",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "一禾　あお",
@@ -2728,7 +2728,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ichika_ao.jpg"
       },
       {
-        "id": "de2f7c5a-a8bc-4abd-b570-8b97ec482c77",
+        "id": "0cb9a0d8-d345-4409-b5a7-e6486d75ac14",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "有栖　妃華",
@@ -2743,7 +2743,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/arisu_himeka.jpg"
       },
       {
-        "id": "53a6e89d-641d-4e31-9bc9-289eaa3d6a0c",
+        "id": "12db4dc6-4fee-4a7e-848f-d74ec50fbcf9",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "咲城　けい",
@@ -2758,7 +2758,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakishiro_kei.jpg"
       },
       {
-        "id": "2bbed3d4-8deb-4f33-b1de-bf448898f94d",
+        "id": "acda27d8-7567-4b21-8102-03d2400eaa69",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "稀羽　りんと",
@@ -2773,7 +2773,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mareha_rinto.jpg"
       },
       {
-        "id": "865be831-3804-4395-826b-4d5ecae7c3f0",
+        "id": "7f62f0d8-ed4d-4982-81d1-b7bb9202ee72",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "聖海　由侑",
@@ -2788,7 +2788,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/seimi_yu.jpg"
       },
       {
-        "id": "850325ae-7265-4068-9be7-c0957525e393",
+        "id": "b4a67cb7-e98c-4842-ac52-ead0e5c086cf",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "壮海　はるま",
@@ -2803,7 +2803,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/somi_haruma.jpg"
       },
       {
-        "id": "93679c60-eca9-4d20-967a-7ac4d211f582",
+        "id": "8ca9c5a6-d1fa-4be2-ab4d-b6a5b41bd0fa",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "愛羽　あやね",
@@ -2818,7 +2818,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/manaha_ayane.jpg"
       },
       {
-        "id": "4e492b32-536d-4a10-bc91-be0e4a48c294",
+        "id": "0aa5ac46-8f44-4525-94ec-846a085eee88",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "莉奈　くるみ",
@@ -2833,7 +2833,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/rina_kurumi.jpg"
       },
       {
-        "id": "6849fc6c-39e0-47f9-8302-6dd30a6bb35f",
+        "id": "be10720a-8803-46fa-b210-993fa9d83e39",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "紗蘭　令愛",
@@ -2848,7 +2848,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/saran_reia.jpg"
       },
       {
-        "id": "3908279f-81d7-413c-8d3d-94f8f324dabf",
+        "id": "9f03bda4-0a14-4498-9de8-c1a688509be4",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "蒼波　黎也",
@@ -2863,7 +2863,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aoha_reiya.jpg"
       },
       {
-        "id": "93bad0d7-8d8c-4419-9b98-6c2984e4bb35",
+        "id": "dc94e414-2f1f-4ed6-9414-2d749b35cfb7",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "愛陽　みち",
@@ -2878,7 +2878,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/manahi_michi.jpg"
       },
       {
-        "id": "38186fbd-4980-4d80-aa22-934bde7a3a77",
+        "id": "0d1645c4-5278-47a1-b10b-e7dc1becdcae",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "絢斗　しおん",
@@ -2893,7 +2893,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayato_shion.jpg"
       },
       {
-        "id": "100d52ef-b466-4930-927f-ef6813d4edf0",
+        "id": "7479e005-1caa-47c6-b39f-ca083135f7f9",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "千早　真央",
@@ -2908,7 +2908,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/chihaya_mao.jpg"
       },
       {
-        "id": "176f4351-83b1-417b-adc2-8b1b00a2ba7e",
+        "id": "8fd6f04c-9def-47dc-b16b-a223f2595e4c",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "麻花　すわん",
@@ -2923,7 +2923,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asahana_suwan.jpg"
       },
       {
-        "id": "4f2f7835-6de4-4958-923d-089491d945b7",
+        "id": "6be19501-009a-466f-8bc6-c804b54780f5",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "風雅　奏",
@@ -2938,7 +2938,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/fuga_kanade.jpg"
       },
       {
-        "id": "03d4f858-8da6-444f-a082-3393b3fdbab1",
+        "id": "453d4199-d5f9-4f94-975a-c40a40e51c0f",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "和奏　樹",
@@ -2953,7 +2953,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/wakana_tatsuki.jpg"
       },
       {
-        "id": "f6cd20d9-bd3d-4eb4-b998-82a86194d231",
+        "id": "ecde82fe-c30c-4b0d-881e-15964131489d",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "音彩　唯",
@@ -2968,7 +2968,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/neiro_yui.jpg"
       },
       {
-        "id": "f3e7e0be-f27f-481c-b9ea-59c7d632e365",
+        "id": "df39fa9c-577f-404a-a64c-a3c62d1c555a",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "琴峰　紗あら",
@@ -2983,7 +2983,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kotomine_saara.jpg"
       },
       {
-        "id": "8484877a-689e-4897-b61f-367a9b4cd5ae",
+        "id": "521bb0a3-9ea9-4df1-bb93-e907ba8b53e5",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "愛空　みなみ",
@@ -2998,7 +2998,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aisora_minami.jpg"
       },
       {
-        "id": "c43a7dc0-b139-457e-9515-92ef4f08e0fc",
+        "id": "3e21fde7-c6f8-4393-921a-5e07fa42adad",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "紀城　ゆりや",
@@ -3013,7 +3013,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kishiro_yuriya.jpg"
       },
       {
-        "id": "cf5fba45-dfea-48ad-863f-ecd414ab7ed3",
+        "id": "9c7af651-f8f2-47dc-b69f-008ee6e6b05d",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "海咲　圭",
@@ -3028,7 +3028,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/misaki_kei.jpg"
       },
       {
-        "id": "c9f253ed-2aff-410e-a144-b9666f366f80",
+        "id": "51c57d8d-ed96-4488-8bc6-a6f2f3637bb0",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "希翠　那音",
@@ -3043,7 +3043,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kisui_naoto.jpg"
       },
       {
-        "id": "b04fe29d-a68b-42ea-b7d8-0f02089b5c9c",
+        "id": "b6ad6f0f-6447-495d-9137-78761cadea2e",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "美影　くらら",
@@ -3058,7 +3058,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mikage_kurara.jpg"
       },
       {
-        "id": "2ef686d6-fdfe-4bfe-9ff6-2cac6bef95b5",
+        "id": "a38ab3e5-8c6a-4e57-a08c-9ef57e75abce",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "月瀬　陽",
@@ -3073,7 +3073,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tsukise_yo.jpg"
       },
       {
-        "id": "a2eeee14-fdf9-496a-bd00-bf8c9007fe30",
+        "id": "7ea48aa5-a4ac-4549-b02c-6dc3f2626f87",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "華世　京",
@@ -3088,7 +3088,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kase_kyo.jpg"
       },
       {
-        "id": "5dfe8951-5563-4836-9997-3b6f0af529ab",
+        "id": "7605a8e5-ad5d-4925-bc70-c13e487671b1",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "華純　沙那",
@@ -3103,7 +3103,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kasumi_sana.jpg"
       },
       {
-        "id": "84584bd6-9bf4-4690-8d0f-a41be6607e72",
+        "id": "d94e1def-6e36-478c-8b31-b12730b93b38",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "夢翔　みわ",
@@ -3118,7 +3118,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yumeto_miwa.jpg"
       },
       {
-        "id": "9ba07aff-1d22-4336-ad24-2f0b3fdf4180",
+        "id": "4c19251a-5617-4a81-bb89-d4bd3b1fc9d7",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "霧乃　あさと",
@@ -3133,7 +3133,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kirino_asato.jpg"
       },
       {
-        "id": "f2b9a3ba-0cd1-44f4-ad09-1f09bbf05612",
+        "id": "e199cc97-2198-4946-afee-31eadaeac64c",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "藤影　ゆら",
@@ -3148,7 +3148,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/fujikage_yura.jpg"
       },
       {
-        "id": "9b876b8f-02e9-45a5-afc0-1fc8dbc52e80",
+        "id": "f13e4cea-68c5-4513-806c-30e5bf9c6eb4",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "天音　ことは",
@@ -3163,7 +3163,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amane_kotoha.jpg"
       },
       {
-        "id": "2444ede5-be93-4341-9d57-172cb08006ef",
+        "id": "24951669-85eb-4dc3-b548-51e139dfcbd8",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "夢陽　まり",
@@ -3178,7 +3178,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yumehi_mari.jpg"
       },
       {
-        "id": "ee3eb507-b487-442c-b653-9a2159efeee3",
+        "id": "b74cd1e4-c6da-442f-a495-86d572260ae6",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "彩名　美希",
@@ -3193,7 +3193,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayana_miki.jpg"
       },
       {
-        "id": "8a9b3411-d246-40b1-9ce6-057c1b85db6e",
+        "id": "1cb276f5-8328-4f4d-a62c-614347bd468c",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "白綺　華",
@@ -3208,7 +3208,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shiraki_hana.jpg"
       },
       {
-        "id": "5cc43a8d-f1ae-41bb-94fc-6506ed9c5d2f",
+        "id": "b1d045a9-fb69-48d6-856a-134731cb24c7",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "瑞季　せれな",
@@ -3223,7 +3223,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mizuki_serena.jpg"
       },
       {
-        "id": "230467d4-1b06-472a-ad33-db877921a533",
+        "id": "632a5ae7-6f43-4d3f-baee-2d51a124c309",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "風立　にき",
@@ -3238,7 +3238,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazetachi_niki.jpg"
       },
       {
-        "id": "619b6e10-f241-411a-b3dd-25972aa6c652",
+        "id": "9404ea0c-1ff9-4fc6-bd57-56bdbde75785",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "絢月　晴斗",
@@ -3253,7 +3253,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayazuki_haruto.jpg"
       },
       {
-        "id": "b9b0045f-fb9a-4405-890a-d11b8c3106f1",
+        "id": "ccbc4c2d-e185-4394-8076-51c0b32a11bf",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "妃奈　環",
@@ -3268,7 +3268,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/himena_tamaki.jpg"
       },
       {
-        "id": "25a66785-06ed-4fd9-a720-373f6c46496a",
+        "id": "2daf8ff0-8bfa-49d8-a9b2-6b0a698deb45",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "瞳月　りく",
@@ -3283,7 +3283,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tozuki_riku.jpg"
       },
       {
-        "id": "1400b98f-a6e0-47b6-864d-28e92a951457",
+        "id": "ba28b66f-ef9f-4f28-82d6-180ed257302e",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "乙瀬　千晴",
@@ -3298,7 +3298,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/otose_chiharu.jpg"
       },
       {
-        "id": "7cd92962-a728-4aaa-a6d4-9aaec15c4db6",
+        "id": "f646530b-238f-456b-a36e-063aa750d6d5",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "小乃美　ゆき",
@@ -3313,7 +3313,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/konomi_yuki.jpg"
       },
       {
-        "id": "90db5920-9aa3-4d78-a8e3-f3f7be144deb",
+        "id": "19474e53-9ddb-4756-b397-5dca2fc82129",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "苑利　香輝",
@@ -3328,7 +3328,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/enri_koki.jpg"
       },
       {
-        "id": "542e27a9-9299-4327-bfc1-20398606c788",
+        "id": "0d7ed43d-1c45-480d-b67c-ac2b4ac5162d",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "星沢　ありさ",
@@ -3343,7 +3343,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hoshizawa_arisa.jpg"
       },
       {
-        "id": "25fa20be-5232-41d8-9ef1-162e0762a668",
+        "id": "15ce8692-2bda-4d14-ba1a-3e7725cbac87",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "清羽　美伶",
@@ -3358,7 +3358,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kiyoha_mirei.jpg"
       },
       {
-        "id": "cad98cb4-aa8c-41b5-8cf6-b2c7d9f7c6a6",
+        "id": "f9ab7634-cca3-49ea-9556-aa1040eeb008",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "水月　胡蝶",
@@ -3373,7 +3373,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mizuki_kocho.jpg"
       },
       {
-        "id": "80bfa5f1-eeb0-4b80-9bac-340d2890160a",
+        "id": "87f02ec0-230f-4543-80d9-2753f5b9198a",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "紗香　にいな",
@@ -3388,7 +3388,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sako_nina.jpg"
       },
       {
-        "id": "a70102a6-95cf-436d-bdbf-3c993da125fa",
+        "id": "15f11ec9-a0d2-4649-89e3-3379069ca7ed",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "榊　歩",
@@ -3403,7 +3403,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakaki_ayumu.jpg"
       },
       {
-        "id": "80217529-bdae-4356-8ea7-25801b82bed1",
+        "id": "838f28a4-f536-4776-8e3d-2c14c0b2522e",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "琴華　ひまわり",
@@ -3418,7 +3418,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kotoka_himawari.jpg"
       },
       {
-        "id": "8c3ffb35-540f-4887-a553-ca977b8e99ca",
+        "id": "2b3b2ceb-3b0c-472b-91f3-43a5c2de71ba",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "千乃　新",
@@ -3433,7 +3433,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/senno_arata.jpg"
       },
       {
-        "id": "c70be679-369c-4b19-902e-ede886b24c4f",
+        "id": "3fa26754-c69f-449e-ac3b-9da45fa4d21b",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "音綺　みあ",
@@ -3448,7 +3448,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/otoki_mia.jpg"
       },
       {
-        "id": "cfbe5fe0-139f-4a78-8379-03eb95f78784",
+        "id": "12da12f2-6648-4b79-af8b-fae86801d157",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "律希　奏",
@@ -3463,7 +3463,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ritsuki_so.jpg"
       },
       {
-        "id": "49b29da6-f47a-483a-9102-10166c3798e1",
+        "id": "fb6b605d-6f87-45d7-8fb3-f3d9a35dda55",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "結翔　恋",
@@ -3478,7 +3478,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yuito_ren.jpg"
       },
       {
-        "id": "2fcd8c47-b09c-48ca-a4b6-8a3d2e3251ae",
+        "id": "77b39322-66bc-4563-8be7-2f1797ab6108",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "祈菜　さあや",
@@ -3493,7 +3493,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kina_saya.jpg"
       },
       {
-        "id": "f949e1d2-0413-4146-8219-63a7038daf60",
+        "id": "70561c86-4d99-449f-941d-6a672479d51b",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "桜菜　みのり",
@@ -3508,7 +3508,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakurana_minori.jpg"
       },
       {
-        "id": "c2b8fe16-1813-4d03-a6d6-a85269c44ebf",
+        "id": "b8079762-144d-4cc1-a7e5-c51da585481f",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "星姫　あやか",
@@ -3523,7 +3523,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hoshihime_ayaka.jpg"
       },
       {
-        "id": "e6721a1e-ec9e-4722-afdd-ca00dd92aec3",
+        "id": "3d1800d5-4e52-44b1-a3ac-633f43685eab",
         "troupe": "snow",
         "starType": 3,
         "nameJp": "清見　ひかり",
@@ -3543,7 +3543,7 @@
     "troupe": "star",
     "stars": [
       {
-        "id": "8cbada64-b00f-4f45-b96f-8e61ce6646e6",
+        "id": "8c3f82b2-7248-4227-b0b3-b5c967dcb1e9",
         "troupe": "star",
         "starType": 1,
         "nameJp": "礼　真琴",
@@ -3558,7 +3558,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/rei_makoto.jpg"
       },
       {
-        "id": "e7ac2a61-688b-4e14-855f-00274ec906bb",
+        "id": "e8690516-c4bf-4ef7-9d0d-f99ecfb4d942",
         "troupe": "star",
         "starType": 2,
         "nameJp": "舞空　瞳",
@@ -3573,7 +3573,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/maisora_hitomi.jpg"
       },
       {
-        "id": "bb0fea4c-16ff-4e13-8d12-8eefb7f94f54",
+        "id": "06d1fc4f-4e4e-4713-9329-0c2d95f7a5d8",
         "troupe": "star",
         "starType": 3,
         "nameJp": "美稀　千種",
@@ -3588,7 +3588,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miki_chigusa.jpg"
       },
       {
-        "id": "92dd6caf-cb67-49d7-9610-eeab3504ac73",
+        "id": "0c806bc4-352f-453c-87b9-b2b1a310c30c",
         "troupe": "star",
         "starType": 3,
         "nameJp": "白妙　なつ",
@@ -3603,7 +3603,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shirotae_natsu.jpg"
       },
       {
-        "id": "a1261943-cb1a-4223-b93e-0060d8d01cdf",
+        "id": "bde0d987-555c-4e1d-b03b-2df074eeea58",
         "troupe": "star",
         "starType": 3,
         "nameJp": "大輝　真琴",
@@ -3618,7 +3618,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/oki_makoto.jpg"
       },
       {
-        "id": "612168d6-ed49-45c3-aacc-9925d5c97c0c",
+        "id": "12cc74ed-de84-477c-a32a-c3b6d0ec2426",
         "troupe": "star",
         "starType": 3,
         "nameJp": "輝咲　玲央",
@@ -3633,7 +3633,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kizaki_reo.jpg"
       },
       {
-        "id": "b658602e-9e10-4012-ae2b-49cc198186e0",
+        "id": "355cf4c0-34f2-4b37-a9b1-48e8ef777b76",
         "troupe": "star",
         "starType": 3,
         "nameJp": "ひろ香　祐",
@@ -3648,7 +3648,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hiroka_yu.jpg"
       },
       {
-        "id": "b62a4d4a-4b75-4e75-bdbb-0af7da6a7261",
+        "id": "9996610c-3f0c-4a1b-96af-664e3750d467",
         "troupe": "star",
         "starType": 3,
         "nameJp": "紫　りら",
@@ -3663,37 +3663,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/murasaki_rira.jpg"
       },
       {
-        "id": "4f156669-3387-4be8-b9ad-b656597a9f6e",
-        "troupe": "star",
-        "starType": 3,
-        "nameJp": "瀬央　ゆりあ",
-        "nameEn": "Yuria Seo",
-        "firstStage": "2009年4月「Amour それは…」",
-        "graduate": 95,
-        "birthday": "6月15日",
-        "birthPlace": "広島県広島市",
-        "height": "172cm",
-        "favoriteRole": "今迄いただいた役全て",
-        "nickName": "せおっち、なおみ",
-        "imgSrc": "https://kageki.hankyu.co.jp/star/images/seo_yuria.jpg"
-      },
-      {
-        "id": "8bc4aafa-ecef-4357-bc3a-d77ad4228515",
-        "troupe": "star",
-        "starType": 3,
-        "nameJp": "音咲　いつき",
-        "nameEn": "Itsuki Otosaki",
-        "firstStage": "2010年4月「THE SCARLET PIMPERNEL」",
-        "graduate": 96,
-        "birthday": "6月27日",
-        "birthPlace": "神奈川県藤沢市",
-        "height": "164.5cm",
-        "favoriteRole": "「阿弖流為」の諸絞、ディナーショー「MOMENT」の全て、「VERDAD!!」の全て、「JAGUAR BEAT」の女豹（歌手）",
-        "nickName": "いーちゃん、まい、音ちゃん",
-        "imgSrc": "https://kageki.hankyu.co.jp/star/images/otosaki_itsuki.jpg"
-      },
-      {
-        "id": "97afccbb-0f95-47f4-a9bf-e0e96e8c271e",
+        "id": "0785cf01-b9d2-4a86-9134-aacf3f5464c9",
         "troupe": "star",
         "starType": 3,
         "nameJp": "朝水　りょう",
@@ -3708,7 +3678,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asamizu_ryo.jpg"
       },
       {
-        "id": "daf68a1f-d254-471f-a68b-9c522e969acc",
+        "id": "e191c609-a625-42c7-a0f6-45c726fb19b1",
         "troupe": "star",
         "starType": 3,
         "nameJp": "暁　千星",
@@ -3723,22 +3693,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/akatsuki_chisei.jpg"
       },
       {
-        "id": "a93942c1-3166-41fe-adb3-17f67edec759",
-        "troupe": "star",
-        "starType": 3,
-        "nameJp": "有沙　瞳",
-        "nameEn": "Hitomi Arisa",
-        "firstStage": "2012年4月「華やかなりし日々」",
-        "graduate": 98,
-        "birthday": "8月4日",
-        "birthPlace": "三重県鈴鹿市",
-        "height": "160.5cm",
-        "favoriteRole": "今迄いただいた役、全て大切なお役です",
-        "nickName": "みほ、くらっち",
-        "imgSrc": "https://kageki.hankyu.co.jp/star/images/arisa_hitomi.jpg"
-      },
-      {
-        "id": "3cf9c28d-c66f-496b-b37d-bc13ad52931f",
+        "id": "5944d653-6ceb-46d4-bb78-66054028e8b9",
         "troupe": "star",
         "starType": 3,
         "nameJp": "天華　えま",
@@ -3753,7 +3708,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amahana_ema.jpg"
       },
       {
-        "id": "9f38e210-0a9b-403f-ab51-475e8b3686b4",
+        "id": "b4f97e90-3668-4885-82ec-6d9acd533e08",
         "troupe": "star",
         "starType": 3,
         "nameJp": "澪乃　桜季",
@@ -3768,7 +3723,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miono_saki.jpg"
       },
       {
-        "id": "3bbe0cb7-46d0-4b29-81be-f804d34b16d7",
+        "id": "d1f33c35-6d6e-49fa-ada3-b0bab8323ad3",
         "troupe": "star",
         "starType": 3,
         "nameJp": "夕渚　りょう",
@@ -3783,7 +3738,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yunagi_ryo.jpg"
       },
       {
-        "id": "9f5f233f-5ef8-42e8-b089-a235792dfc52",
+        "id": "b3095d69-904e-4d4a-9a3c-e35128e72d6f",
         "troupe": "star",
         "starType": 3,
         "nameJp": "天希　ほまれ",
@@ -3798,7 +3753,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amaki_homare.jpg"
       },
       {
-        "id": "e17fe344-af8c-4514-801a-659b5e8b1225",
+        "id": "9f617dca-ba38-422e-9db9-dd2f3d3a66d7",
         "troupe": "star",
         "starType": 3,
         "nameJp": "小桜　ほのか",
@@ -3813,22 +3768,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kozakura_honoka.jpg"
       },
       {
-        "id": "1e297093-0f3a-4d0f-b0b8-88c467553b20",
-        "troupe": "star",
-        "starType": 3,
-        "nameJp": "天路　そら",
-        "nameEn": "Sora Amaji",
-        "firstStage": "2013年4月「ベルサイユのばら」",
-        "graduate": 99,
-        "birthday": "5月15日",
-        "birthPlace": "熊本県天草市",
-        "height": "167cm",
-        "favoriteRole": "これまでいただいた役全て。特に「桜華に舞え」の西郷小兵衛と新人公演の川路利良、「阿弖流為」の多久麻、「ザ・ジェントル・ライアー」のメイスン",
-        "nickName": "まなつ、あまじぃ、ニイサン",
-        "imgSrc": "https://kageki.hankyu.co.jp/star/images/amaji_sora.jpg"
-      },
-      {
-        "id": "4af13ec8-2105-4b74-b9ad-4b6900ab60ee",
+        "id": "6f803f99-22a6-4f39-817a-ac24d8c294c8",
         "troupe": "star",
         "starType": 3,
         "nameJp": "蒼舞　咲歩",
@@ -3843,7 +3783,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sobu_sakiho.jpg"
       },
       {
-        "id": "9945a651-5395-4bf0-84a5-79601de8a5f9",
+        "id": "ecc597b8-aade-4a9a-b537-b955fcd354a1",
         "troupe": "star",
         "starType": 3,
         "nameJp": "七星　美妃",
@@ -3858,7 +3798,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nanase_miki.jpg"
       },
       {
-        "id": "a675dfee-50c5-41b6-978b-e7b088c3d84f",
+        "id": "b57265f6-5a1e-4fdd-9903-5a7b6b11d0a1",
         "troupe": "star",
         "starType": 3,
         "nameJp": "二條　華",
@@ -3873,7 +3813,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nijo_hana.jpg"
       },
       {
-        "id": "0e58155f-27e4-4c1c-8566-01a86754d564",
+        "id": "2c38356b-8118-4e3c-85e1-b27123809957",
         "troupe": "star",
         "starType": 3,
         "nameJp": "希沙　薫",
@@ -3888,7 +3828,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kisa_kaoru.jpg"
       },
       {
-        "id": "19c2d29a-4987-48d0-b24b-eae8e9c28064",
+        "id": "c89998f2-dbe1-4151-ab3e-28762460c188",
         "troupe": "star",
         "starType": 3,
         "nameJp": "極美　慎",
@@ -3903,7 +3843,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kiwami_shin.jpg"
       },
       {
-        "id": "fef5c225-d498-4fb4-a28f-06ee18294fd6",
+        "id": "abb3edbc-de4d-4548-b3d3-5cc2304e22c8",
         "troupe": "star",
         "starType": 3,
         "nameJp": "煌　えりせ",
@@ -3918,7 +3858,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ko_erise.jpg"
       },
       {
-        "id": "408105db-d1ed-4c46-adc3-673709e31f79",
+        "id": "7bc17f66-2e2a-449d-9141-edc5baa674f4",
         "troupe": "star",
         "starType": 3,
         "nameJp": "碧海　さりお",
@@ -3933,7 +3873,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aomi_sario.jpg"
       },
       {
-        "id": "ef0b2a43-1cf2-4fbb-b524-7805497c6bfc",
+        "id": "0f742d57-afe8-4514-a17a-0ad15d7654ef",
         "troupe": "star",
         "starType": 3,
         "nameJp": "颯香　凜",
@@ -3948,7 +3888,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sayaka_rin.jpg"
       },
       {
-        "id": "570ea875-2d31-4c41-8773-257a77f6015d",
+        "id": "0e7ba347-ed5c-4342-9635-5fa1fa4f7ee5",
         "troupe": "star",
         "starType": 3,
         "nameJp": "夕陽　真輝",
@@ -3963,7 +3903,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yuhi_maki.jpg"
       },
       {
-        "id": "a1a59374-5344-40ee-a062-f217d1cd1170",
+        "id": "14235c82-bbd0-463e-b378-40bd20fcfc9e",
         "troupe": "star",
         "starType": 3,
         "nameJp": "彩園　ひな",
@@ -3978,7 +3918,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayazono_hina.jpg"
       },
       {
-        "id": "a3e0811a-fe72-47fb-832d-e98e216d0922",
+        "id": "d44fa38c-d566-4217-9d6c-fad831d8ccbc",
         "troupe": "star",
         "starType": 3,
         "nameJp": "天飛　華音",
@@ -3993,7 +3933,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amato_kanon.jpg"
       },
       {
-        "id": "27d08649-daf1-4861-9c81-0dd5717e2dc3",
+        "id": "6e127209-e9b8-40b3-b9c7-9b1a43bcf5ec",
         "troupe": "star",
         "starType": 3,
         "nameJp": "紅咲　梨乃",
@@ -4008,7 +3948,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kuresaki_rino.jpg"
       },
       {
-        "id": "77b9bd4d-0010-46b4-ac76-cefb039558ee",
+        "id": "1e765754-0b19-4c87-9a15-c790a0622281",
         "troupe": "star",
         "starType": 3,
         "nameJp": "奏碧　タケル",
@@ -4023,7 +3963,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/soa_takeru.jpg"
       },
       {
-        "id": "c4d4a4a4-e047-4677-8931-a522e32a5e3f",
+        "id": "26f01617-e787-4842-a412-323c8b417d8b",
         "troupe": "star",
         "starType": 3,
         "nameJp": "都　優奈",
@@ -4038,7 +3978,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miyako_yuna.jpg"
       },
       {
-        "id": "02bd2feb-889e-4db3-a395-b76609d388e0",
+        "id": "202cd01c-390f-4818-a333-d1d1ed11e042",
         "troupe": "star",
         "starType": 3,
         "nameJp": "鳳真　斗愛",
@@ -4053,7 +3993,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/homa_toa.jpg"
       },
       {
-        "id": "8e3b8f52-280c-43d2-b930-e1aedd31f4fe",
+        "id": "c8eb8b25-719e-492b-b397-512cf5119ef1",
         "troupe": "star",
         "starType": 3,
         "nameJp": "水乃　ゆり",
@@ -4068,7 +4008,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mizuno_yuri.jpg"
       },
       {
-        "id": "6adcea99-8fe6-457f-baf1-fd64b2d73630",
+        "id": "d9ae29f9-b8c6-48ba-bc14-a8a0a50acfe2",
         "troupe": "star",
         "starType": 3,
         "nameJp": "瑠璃　花夏",
@@ -4083,7 +4023,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ruri_hanaka.jpg"
       },
       {
-        "id": "afd61814-3c30-4e08-9f52-4f865d025790",
+        "id": "0600284c-5a94-40bf-a338-9afe392a67da",
         "troupe": "star",
         "starType": 3,
         "nameJp": "紘希　柚葉",
@@ -4098,7 +4038,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hiroki_yuzuha.jpg"
       },
       {
-        "id": "dd5609d7-a768-475e-875f-a639827d0dc5",
+        "id": "18bf672d-a8c4-4f6c-9798-cca7698021ad",
         "troupe": "star",
         "starType": 3,
         "nameJp": "侑蘭　粋",
@@ -4113,7 +4053,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yuran_sui.jpg"
       },
       {
-        "id": "870cef08-e780-4372-88ba-696fc3b14d7f",
+        "id": "49feb93a-526d-44eb-b35a-663de8860cac",
         "troupe": "star",
         "starType": 3,
         "nameJp": "羽玲　有華",
@@ -4128,7 +4068,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/harei_yuka.jpg"
       },
       {
-        "id": "256309b3-9b48-44fd-98a2-9cb44ac8e0a6",
+        "id": "034b0496-97f0-454d-b896-8c2afdd6e4d3",
         "troupe": "star",
         "starType": 3,
         "nameJp": "星咲　希",
@@ -4143,7 +4083,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hoshisaki_nozomi.jpg"
       },
       {
-        "id": "c09568a2-831e-4f49-8c0a-73340080b984",
+        "id": "ddb7e8c1-8284-4f08-a668-c3254553cdba",
         "troupe": "star",
         "starType": 3,
         "nameJp": "綾音　美蘭",
@@ -4158,7 +4098,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayane_miran.jpg"
       },
       {
-        "id": "f7d3a480-8a12-4739-a209-f34d0307d8b7",
+        "id": "056c7927-48f8-4888-970a-532029c6eb3d",
         "troupe": "star",
         "starType": 3,
         "nameJp": "碧音　斗和",
@@ -4173,7 +4113,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aone_towa.jpg"
       },
       {
-        "id": "723dd2df-049a-400f-9c36-5b5171250986",
+        "id": "6031de40-fd72-48f5-b8b9-0f5eed00a98d",
         "troupe": "star",
         "starType": 3,
         "nameJp": "御剣　海",
@@ -4188,7 +4128,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mitsurugi_kai.jpg"
       },
       {
-        "id": "9d6e29e5-bfae-4f87-90c5-4189266cfcfb",
+        "id": "8cc20770-67ec-499f-ab64-920605eb1014",
         "troupe": "star",
         "starType": 3,
         "nameJp": "世晴　あさ",
@@ -4203,7 +4143,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/seharu_asa.jpg"
       },
       {
-        "id": "5360f39b-9036-4aff-891c-c6a561c58385",
+        "id": "90d85637-9491-4c64-96aa-36e81ba2f448",
         "troupe": "star",
         "starType": 3,
         "nameJp": "凛央捺　はる",
@@ -4218,7 +4158,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/riona_haru.jpg"
       },
       {
-        "id": "c01ad3ea-c3bc-49bb-9d28-9e640ae8f04b",
+        "id": "3190163c-3f4c-435c-b9f3-16f1f45bff2e",
         "troupe": "star",
         "starType": 3,
         "nameJp": "透綺　らいあ",
@@ -4233,7 +4173,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/toki_raia.jpg"
       },
       {
-        "id": "d13b033b-99c8-4b63-ab50-9e0b9eed6656",
+        "id": "cc6186d1-e1f6-4181-9d5c-814525dc6d2a",
         "troupe": "star",
         "starType": 3,
         "nameJp": "詩　ちづる",
@@ -4248,7 +4188,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/uta_chizuru.jpg"
       },
       {
-        "id": "9225ff78-dc2c-4353-bf0a-868f20dbe905",
+        "id": "3d6ca1b8-88aa-4c1d-9a91-08e48a087ccb",
         "troupe": "star",
         "starType": 3,
         "nameJp": "鳳花　るりな",
@@ -4263,7 +4203,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/oka_rurina.jpg"
       },
       {
-        "id": "0490765b-2c8b-4b35-b286-28345a2e3e33",
+        "id": "839fb088-fc16-429e-bdbd-2a966eae0dbe",
         "troupe": "star",
         "starType": 3,
         "nameJp": "稀惺　かずと",
@@ -4278,7 +4218,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kisho_kazuto.jpg"
       },
       {
-        "id": "7080ac32-8dd7-44c6-b224-fcd117d0282e",
+        "id": "cc19ddad-588f-461a-a8fc-a48cc5e8c129",
         "troupe": "star",
         "starType": 3,
         "nameJp": "大希　颯",
@@ -4293,7 +4233,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/taiki_hayate.jpg"
       },
       {
-        "id": "beaee0c8-ef9f-47ee-862a-0581d5393c6b",
+        "id": "9ec8b856-24c2-43e6-bc2d-e71a11807e6b",
         "troupe": "star",
         "starType": 3,
         "nameJp": "星影　なな",
@@ -4308,7 +4248,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hoshikage_nana.jpg"
       },
       {
-        "id": "8d870d35-c639-4047-a60a-d50d1cb2a4ba",
+        "id": "8b707e56-5416-4845-ae14-7291825392d4",
         "troupe": "star",
         "starType": 3,
         "nameJp": "瞳　きらり",
@@ -4323,7 +4263,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hitomi_kirari.jpg"
       },
       {
-        "id": "daa46113-a148-4d84-9d31-36ac3eec54c1",
+        "id": "d77c7cca-303c-47b4-b35e-f2d098c301e3",
         "troupe": "star",
         "starType": 3,
         "nameJp": "彩夏　こいき",
@@ -4338,7 +4278,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayaka_koiki.jpg"
       },
       {
-        "id": "08c5dc9a-d00f-4c3d-8919-3a22857572ae",
+        "id": "066dd788-9a78-4533-bf67-50ae8bc59f2a",
         "troupe": "star",
         "starType": 3,
         "nameJp": "彩紋　ねお",
@@ -4353,7 +4293,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/saimon_neo.jpg"
       },
       {
-        "id": "5a93f15e-a946-45d4-a7a9-98ee8c8198f5",
+        "id": "0a528488-c35e-46b8-8b29-88600db6cdd7",
         "troupe": "star",
         "starType": 3,
         "nameJp": "青風　希央",
@@ -4368,7 +4308,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aokaze_kio.jpg"
       },
       {
-        "id": "12873af3-e1ff-40ef-a772-2f3553d5594e",
+        "id": "7547c09a-c1e1-4197-8e3b-6b8e4cab50ef",
         "troupe": "star",
         "starType": 3,
         "nameJp": "乙華　菜乃",
@@ -4383,7 +4323,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/otoka_nano.jpg"
       },
       {
-        "id": "48bdb5fc-5efb-4ad2-b3eb-70e0e93014b3",
+        "id": "ad3ba9f2-9a2b-4a64-ae55-4f79befe6713",
         "troupe": "star",
         "starType": 3,
         "nameJp": "愛花　いと",
@@ -4398,7 +4338,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aika_ito.jpg"
       },
       {
-        "id": "0e80808a-4466-497b-8a24-a73fff634171",
+        "id": "93001463-b826-4dfe-b854-ca77b2300a24",
         "troupe": "star",
         "starType": 3,
         "nameJp": "凰陽　さや華",
@@ -4413,7 +4353,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ohi_sayaka.jpg"
       },
       {
-        "id": "7b6af917-ba48-4990-9a06-67ad49adb39b",
+        "id": "a9f0f3e6-957b-4ca3-a9c2-33f778aa4a45",
         "troupe": "star",
         "starType": 3,
         "nameJp": "飛翠　真凜",
@@ -4428,7 +4368,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hisui_marin.jpg"
       },
       {
-        "id": "c3a3a23d-b0fc-4984-9ff5-80259574ad49",
+        "id": "16777741-1cd4-4f39-ac48-7a7a2b50d544",
         "troupe": "star",
         "starType": 3,
         "nameJp": "樹澄　せいや",
@@ -4443,7 +4383,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kisumi_seiya.jpg"
       },
       {
-        "id": "87625178-39af-46a6-aa1c-8a59c251f78a",
+        "id": "a1351410-71bc-4086-9315-964543ab7fd6",
         "troupe": "star",
         "starType": 3,
         "nameJp": "咲園　りさ",
@@ -4458,7 +4398,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakizono_risa.jpg"
       },
       {
-        "id": "d3c98527-9653-4371-8441-7e714cc06aec",
+        "id": "6605f8ba-11ac-49a9-ab84-bc03a7a80ff0",
         "troupe": "star",
         "starType": 3,
         "nameJp": "朝稀　さいら",
@@ -4473,7 +4413,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asaki_saira.jpg"
       },
       {
-        "id": "70e20079-526f-4a76-90bf-74d064435497",
+        "id": "caad203b-f037-422b-b57c-946bb5bda31f",
         "troupe": "star",
         "starType": 3,
         "nameJp": "碧羽　陽",
@@ -4488,7 +4428,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aohane_yo.jpg"
       },
       {
-        "id": "57d6b82c-b262-4c13-9a67-5ff58fa56068",
+        "id": "ea1f55fd-67b6-4d2a-a980-12fe3fc37ba2",
         "troupe": "star",
         "starType": 3,
         "nameJp": "和波　煌",
@@ -4503,7 +4443,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazuha_ko.jpg"
       },
       {
-        "id": "930c473d-84dc-4106-a948-965b0e0d617c",
+        "id": "d9318d19-ebbc-414c-bcb6-b40ca58bbec9",
         "troupe": "star",
         "starType": 3,
         "nameJp": "世奈　未蘭",
@@ -4518,7 +4458,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sena_miran.jpg"
       },
       {
-        "id": "ae69915f-8276-4ef5-aa60-59114ef7fe64",
+        "id": "a4d8ae7f-2731-471e-aaab-efefe061320d",
         "troupe": "star",
         "starType": 3,
         "nameJp": "美玲　ひな",
@@ -4533,7 +4473,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mirei_hina.jpg"
       },
       {
-        "id": "f7257d64-df95-4b15-9a04-bc6808175173",
+        "id": "a207828f-840e-434e-b81e-c55e1173b2e4",
         "troupe": "star",
         "starType": 3,
         "nameJp": "詩花　すず",
@@ -4548,7 +4488,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/utahana_suzu.jpg"
       },
       {
-        "id": "ab10cdfc-a67d-49e0-bacb-bfb2a439e282",
+        "id": "ac987155-940f-436e-a67e-f33cac09cffb",
         "troupe": "star",
         "starType": 3,
         "nameJp": "藍羽　ひより",
@@ -4563,7 +4503,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aiha_hiyori.jpg"
       },
       {
-        "id": "2f3837d3-c802-4627-9596-21faa45779ce",
+        "id": "443cf9a4-3a96-4fbd-99b4-077f7bfdce78",
         "troupe": "star",
         "starType": 3,
         "nameJp": "桃李　拍",
@@ -4578,7 +4518,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/tori_haku.jpg"
       },
       {
-        "id": "9423b24d-1d4b-46cd-b051-cdc4564f2d61",
+        "id": "c5a364cf-1a9b-4f6c-aa9e-5224b6aa7861",
         "troupe": "star",
         "starType": 3,
         "nameJp": "茉莉那　ふみ",
@@ -4593,7 +4533,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/marina_fumi.jpg"
       },
       {
-        "id": "a2902685-1e72-4540-b2ac-951de1455f59",
+        "id": "ec5b72e0-0f88-45d5-8c98-c9ade310af46",
         "troupe": "star",
         "starType": 3,
         "nameJp": "乙妃　優寿",
@@ -4608,7 +4548,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/otohi_yuzu.jpg"
       },
       {
-        "id": "fc2b403e-c27c-4be1-9768-9061a0c6e818",
+        "id": "819763c2-587f-4fc3-bfef-fd1917c41ee3",
         "troupe": "star",
         "starType": 3,
         "nameJp": "絢咲　羽蘭",
@@ -4623,7 +4563,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayasaki_uran.jpg"
       },
       {
-        "id": "82e7adaa-b20b-43a9-ad79-fd01a0d29f54",
+        "id": "a2b57d70-0dda-4292-9c9e-466b76313d26",
         "troupe": "star",
         "starType": 3,
         "nameJp": "馳　琉輝",
@@ -4638,7 +4578,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hase_ruki.jpg"
       },
       {
-        "id": "ba1c4275-3bd2-487a-8c2b-e14ecb654751",
+        "id": "29545e8e-4b04-454c-bc3f-2a209cbcaaa0",
         "troupe": "star",
         "starType": 3,
         "nameJp": "瑠羽　らいと",
@@ -4653,7 +4593,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ruu_raito.jpg"
       },
       {
-        "id": "35ee8813-1bad-4024-9f20-5d241d0e91a3",
+        "id": "a286d0f3-f19a-4e39-bf5d-f2de07f91493",
         "troupe": "star",
         "starType": 3,
         "nameJp": "珀亜　れい",
@@ -4668,7 +4608,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hakua_rei.jpg"
       },
       {
-        "id": "015f1024-7223-45a4-983b-3e080200d4da",
+        "id": "c6a614f9-0be5-4a57-876d-cf556c93aeea",
         "troupe": "star",
         "starType": 3,
         "nameJp": "風希　咲玖",
@@ -4683,7 +4623,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazaki_saku.jpg"
       },
       {
-        "id": "b757353b-84f5-4668-9e64-63ca6edae0a7",
+        "id": "8906adea-1a12-4af7-93e6-6e9f38ff74d4",
         "troupe": "star",
         "starType": 3,
         "nameJp": "早瀬　まほろ",
@@ -4698,7 +4638,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hayase_mahoro.jpg"
       },
       {
-        "id": "b365c8ae-eba5-4d38-a8b4-ae9956e8a400",
+        "id": "ff493151-7ec8-4845-8240-d3b548c3f8b2",
         "troupe": "star",
         "starType": 3,
         "nameJp": "美鈴　桜",
@@ -4713,7 +4653,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/misuzu_sakura.jpg"
       },
       {
-        "id": "60cdc91a-f6a2-4c5a-8263-ba56f99a2a87",
+        "id": "d36818a3-553d-4447-b99e-69ec7784b095",
         "troupe": "star",
         "starType": 3,
         "nameJp": "湖ノ花　なり",
@@ -4728,7 +4668,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/konoka_nari.jpg"
       },
       {
-        "id": "8547ff27-2877-447d-b45b-55045f3c7421",
+        "id": "387fbcf9-4cd0-44c8-b0a2-00a895105ef1",
         "troupe": "star",
         "starType": 3,
         "nameJp": "逢莉　しゅん",
@@ -4743,7 +4683,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/airi_shun.jpg"
       },
       {
-        "id": "5829a6f6-4b7d-4ca3-b5f6-308faf25f33d",
+        "id": "4543b201-87e9-4640-a9d4-8e2e04261c2f",
         "troupe": "star",
         "starType": 3,
         "nameJp": "花綾　れい",
@@ -4758,7 +4698,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/karyo_rei.jpg"
       },
       {
-        "id": "02f4b030-033f-411f-95f3-31aa3a672868",
+        "id": "83689c63-ad8a-4211-a26e-0afac00806d6",
         "troupe": "star",
         "starType": 3,
         "nameJp": "美琴　ゆゆ",
@@ -4773,7 +4713,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mikoto_yuyu.jpg"
       },
       {
-        "id": "a97111df-60fa-425e-8065-4518ad7b4ac0",
+        "id": "4623ed8e-df6a-486b-ba15-971affd1656c",
         "troupe": "star",
         "starType": 3,
         "nameJp": "星奈　蘭",
@@ -4788,7 +4728,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hoshina_ran.jpg"
       },
       {
-        "id": "bbcb65bf-27c6-43bd-b03d-ec84c0467118",
+        "id": "422406fa-a509-44ea-9193-68990c3ca562",
         "troupe": "star",
         "starType": 3,
         "nameJp": "彩香　涼",
@@ -4808,7 +4748,7 @@
     "troupe": "cosmos",
     "stars": [
       {
-        "id": "9bc7c6d2-aea0-45e3-afaf-87362790293a",
+        "id": "cb8e7dc1-b994-4fd8-bf42-394cd325d35c",
         "troupe": "cosmos",
         "starType": 1,
         "nameJp": "芹香　斗亜",
@@ -4823,7 +4763,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/serika_toa.jpg"
       },
       {
-        "id": "4a43d0b6-b6e7-462e-9504-66487a83c20c",
+        "id": "fa35556d-a8ab-4f88-9361-e374d490bdad",
         "troupe": "cosmos",
         "starType": 2,
         "nameJp": "春乃　さくら",
@@ -4838,7 +4778,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/haruno_sakura.jpg"
       },
       {
-        "id": "eb26b922-0302-4dc1-b3de-96dd5f705a07",
+        "id": "8101e5e6-5caa-4399-bd9c-ce8cefac4cb1",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "松風　輝",
@@ -4853,7 +4793,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/matsukaze_akira.jpg"
       },
       {
-        "id": "9685eda9-38c6-4e8f-8bdb-eac6ff68066a",
+        "id": "efc21090-0be6-4293-9a2e-5d05e70a7720",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "桜木　みなと",
@@ -4868,7 +4808,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sakuragi_minato.jpg"
       },
       {
-        "id": "a90e3aca-07f3-45be-8b86-4e6e8ff73519",
+        "id": "9064391b-6ccb-4cb8-b30b-c4efdb6bfe14",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "秋奈　るい",
@@ -4883,7 +4823,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/akina_rui.jpg"
       },
       {
-        "id": "2e22cd16-e9ef-4f3f-bd5b-c9850328c679",
+        "id": "c17966ee-38bf-4539-83a9-8ed116fc0533",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "花菱　りず",
@@ -4898,7 +4838,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanabishi_rizu.jpg"
       },
       {
-        "id": "b5b26dfe-5d0a-428a-9b9d-6c0fe48eac1f",
+        "id": "1a9b82d4-1964-4c82-bf8c-4ed80cc44d4f",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "小春乃　さよ",
@@ -4913,7 +4853,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/koharuno_sayo.jpg"
       },
       {
-        "id": "f2ec771f-20f0-41d4-9e6c-1b5627855fc0",
+        "id": "cfed5471-ed14-4bc4-95fe-fc32af2a43dc",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "瑠風　輝",
@@ -4928,7 +4868,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/rukaze_hikaru.jpg"
       },
       {
-        "id": "7da97377-8293-4a8b-9018-e824890aa741",
+        "id": "9c37cee0-2609-413c-a5ef-ae98181a4770",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "若翔　りつ",
@@ -4943,7 +4883,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/wakato_ritsu.jpg"
       },
       {
-        "id": "2ae7b37d-7f34-4b74-8129-f05a2e617e6e",
+        "id": "6cba6916-08aa-4234-9cf6-41eaf982e693",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "優希　しおん",
@@ -4958,7 +4898,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yuki_shion.jpg"
       },
       {
-        "id": "48bd1fb3-9f77-4fc4-af8e-dad4bd8c4e11",
+        "id": "e39d37b1-4370-4f7e-a953-a03e072e17c9",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "天彩　峰里",
@@ -4973,7 +4913,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/amairo_mineri.jpg"
       },
       {
-        "id": "ae0704a5-dbb2-4ba0-bae2-1e8f90759ee4",
+        "id": "7fbc43ff-ff6c-468b-a4fe-f9fa58669855",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "鷹翔　千空",
@@ -4988,7 +4928,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/takato_chiaki.jpg"
       },
       {
-        "id": "c22313f9-b322-4018-a9e2-44cfd4d06ede",
+        "id": "e9ab4ad8-853c-4fc7-972a-bcc1c81cc78a",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "湖々　さくら",
@@ -5003,7 +4943,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/koko_sakura.jpg"
       },
       {
-        "id": "8b53140a-a873-4e16-b3ee-3fbd14c87a00",
+        "id": "270815c3-80a4-430e-88b3-74427e13d83a",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "真名瀬　みら",
@@ -5018,7 +4958,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/manase_mira.jpg"
       },
       {
-        "id": "bee6fde4-2076-49c8-9b85-9e684acf6917",
+        "id": "de13f6e0-dc47-450a-9bfd-02c9b6d71338",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "水音　志保",
@@ -5033,7 +4973,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mizune_shiho.jpg"
       },
       {
-        "id": "27cb772f-4893-4067-9e54-db3c6c75695c",
+        "id": "7cc525b1-31d5-4983-b4bf-0eef253110ac",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "雪輝　れんや",
@@ -5048,7 +4988,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/setsuki_renya.jpg"
       },
       {
-        "id": "84d3b272-25f3-432f-98c6-ef114281aa3a",
+        "id": "cc073e2b-4f9d-4f8b-bf63-145282a902e9",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "花宮　沙羅",
@@ -5063,7 +5003,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanamiya_sara.jpg"
       },
       {
-        "id": "ab6850e7-b01c-4a6f-ba12-bee3319eb1d5",
+        "id": "d579c657-8de4-40e3-96eb-99472319beec",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "風色　日向",
@@ -5078,7 +5018,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazeiro_hyuga.jpg"
       },
       {
-        "id": "9b2538a3-045d-4aba-9faf-5526681755ce",
+        "id": "ba06e271-237b-4d1b-a51f-824829110206",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "凰海　るの",
@@ -5093,7 +5033,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/omi_runo.jpg"
       },
       {
-        "id": "74e8f98e-7339-48b9-9b32-fc15272f933c",
+        "id": "97f716ce-6735-4162-a2a0-da60b9f5e132",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "夢風　咲也花",
@@ -5108,7 +5048,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yumekaze_sayaka.jpg"
       },
       {
-        "id": "14e466bc-1948-4723-9b7f-faebd0ada264",
+        "id": "8d84e108-28f3-45b5-a266-cb7007067d82",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "輝　ゆう",
@@ -5123,7 +5063,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kagayaki_yu.jpg"
       },
       {
-        "id": "b479db8e-66f3-45eb-a391-0f84449cec1d",
+        "id": "b184cdba-5392-47da-bad8-02599b4ca61d",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "有愛　きい",
@@ -5138,7 +5078,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aria_ki.jpg"
       },
       {
-        "id": "b2855884-b9bb-445f-a0c6-63d1772e2c20",
+        "id": "80ae8e36-b369-4e5b-85d7-e30fa6695a01",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "亜音　有星",
@@ -5153,7 +5093,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/anon_yusei.jpg"
       },
       {
-        "id": "a22458bf-10f4-4f4f-8e5b-16030dd11fb9",
+        "id": "23f30671-b809-4618-b0b3-20647555b00c",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "彩妃　花",
@@ -5168,7 +5108,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ayahi_hana.jpg"
       },
       {
-        "id": "be96dbd4-7b7f-4078-be09-a62705958ce0",
+        "id": "91e78322-956f-4462-80cc-34ce053a3e77",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "嵐之　真",
@@ -5183,7 +5123,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/arashino_shin.jpg"
       },
       {
-        "id": "41b496bf-0a23-454b-8171-c51aa9178967",
+        "id": "550521ec-2f70-4e9b-8241-36f6a314e4fa",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "真白　悠希",
@@ -5198,7 +5138,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mashiro_yuki.jpg"
       },
       {
-        "id": "28a78ca4-fbad-457a-91ed-f85745139cba",
+        "id": "dd525044-3d55-44fb-95fe-3a8792597ac0",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "梓　唯央",
@@ -5213,7 +5153,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/azusa_io.jpg"
       },
       {
-        "id": "9d352203-43b3-4a72-b8d6-77a6b0b47c39",
+        "id": "2ffae1f0-126a-4440-bdf0-20962ec8dde4",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "楓姫　るる",
@@ -5228,7 +5168,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/fuki_ruru.jpg"
       },
       {
-        "id": "19cd4c28-cc85-4e0f-88fb-4fcf60222bc2",
+        "id": "2c4b5744-0254-47df-8518-d2dbb7b7d687",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "舞　こころ",
@@ -5243,7 +5183,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mai_kokoro.jpg"
       },
       {
-        "id": "d2d711db-01bb-4544-8d44-795260686244",
+        "id": "e808b47c-acee-4c1b-95a9-bcfa18f88a59",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "陽彩　風華",
@@ -5258,7 +5198,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hiiro_fuka.jpg"
       },
       {
-        "id": "655b940c-ab2e-4809-99b2-eff512020b55",
+        "id": "89c7de4e-b0c9-4e3d-83fb-136f34e4841e",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "愛未　サラ",
@@ -5273,7 +5213,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aimi_sara.jpg"
       },
       {
-        "id": "6d9dd0f9-d19c-4181-ae0d-cedb5c4b8c24",
+        "id": "7c7bc324-1b4f-4aed-bcde-801bbd9df0d1",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "山吹　ひばり",
@@ -5288,7 +5228,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yamabuki_hibari.jpg"
       },
       {
-        "id": "ff25c92c-61b4-47b0-8369-187230e1a3fc",
+        "id": "d1c031f9-1bb7-4b46-970b-09d0c4e59c10",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "泉堂　成",
@@ -5303,7 +5243,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sendo_naru.jpg"
       },
       {
-        "id": "55de5889-0cd1-41f8-b542-27431f53d532",
+        "id": "e1b7d921-255b-43b6-bca3-89c9fd3cdb9e",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "美星　帆那",
@@ -5318,7 +5258,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/misei_hanna.jpg"
       },
       {
-        "id": "fa5f2215-0cb2-42ee-8868-3937bab44e2b",
+        "id": "5e3e11e6-0187-4cf0-8edd-8fb0f630482a",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "大路　りせ",
@@ -5333,7 +5273,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/oji_rise.jpg"
       },
       {
-        "id": "38fd4852-b08d-4af2-b416-0f1ea38ceb01",
+        "id": "93ebc24f-9bf2-4a4a-aa1f-7c065e14297d",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "葵　祐稀",
@@ -5348,7 +5288,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aoi_yuki.jpg"
       },
       {
-        "id": "a486953f-c49e-44c9-a3c6-5c9795adff0c",
+        "id": "d90d4548-6991-4d03-8a1b-a640a3b04978",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "聖　叶亜",
@@ -5363,7 +5303,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hijiri_toa.jpg"
       },
       {
-        "id": "43a8db9a-fbdb-4aaf-ad2e-cd6bab220666",
+        "id": "e486f6fa-a3a9-4c85-8233-48fad1691ee1",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "鳳城　のあん",
@@ -5378,7 +5318,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hojo_noan.jpg"
       },
       {
-        "id": "0063ef54-2ca9-4436-abbd-05092cdd2297",
+        "id": "4c90cacd-1042-4ec4-bebc-4b96314fd77d",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "葉咲　うらら",
@@ -5393,7 +5333,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hasaki_urara.jpg"
       },
       {
-        "id": "66596030-3f3b-4648-a5bb-8970c9ddc283",
+        "id": "16cd7c71-1cd8-436d-ac1e-ba282361ae77",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "渚　ゆり",
@@ -5408,7 +5348,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nagisa_yuri.jpg"
       },
       {
-        "id": "138c43e9-539e-4a1d-9f0c-c771b0fc5d88",
+        "id": "92f9d7c0-639e-4c12-aebd-a64079d27781",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "郁　いりや",
@@ -5423,7 +5363,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/iku_iriya.jpg"
       },
       {
-        "id": "4dac5660-8530-4ec1-aa64-2b257fc5d245",
+        "id": "cb550db6-8def-4641-bd10-2e4234e91e23",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "風羽　咲季",
@@ -5438,7 +5378,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazahane_saki.jpg"
       },
       {
-        "id": "6804c3e2-5fee-4cd6-bc8b-3871ded426dc",
+        "id": "c2e1b90f-54cc-46ec-adcf-5484f95520d6",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "波輝　瑛斗",
@@ -5453,7 +5393,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/namiki_eito.jpg"
       },
       {
-        "id": "c1f43b37-6596-4e29-af2f-c4d2bd28ff9b",
+        "id": "e06baf13-1826-4628-9fa1-e5b4db570acd",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "花咲　美玖",
@@ -5468,7 +5408,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanasaki_miku.jpg"
       },
       {
-        "id": "22164bc8-7c98-4545-a37e-a85736162ee1",
+        "id": "30a5f8cf-b271-430c-bea1-a1e88ef0a223",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "風翔　夕",
@@ -5483,7 +5423,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kazato_yu.jpg"
       },
       {
-        "id": "e5b5cdf8-543c-4eeb-816c-3b2a835ad2f7",
+        "id": "1b882e06-de8a-447c-9333-96051b504e52",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "結沙　かのん",
@@ -5498,7 +5438,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yuisa_kanon.jpg"
       },
       {
-        "id": "984501f8-0587-4f05-bf56-ad8045afdcd3",
+        "id": "cd5ddbaf-e04b-4894-aa58-ea1ff9362b13",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "奈央　麗斗",
@@ -5513,7 +5453,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nao_reito.jpg"
       },
       {
-        "id": "615729a9-730b-4cdf-a5aa-7778b32610c6",
+        "id": "18988af0-4b84-4b91-bc68-b2b67835c2f7",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "華乃　みゆ",
@@ -5528,7 +5468,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hanano_miyu.jpg"
       },
       {
-        "id": "60e2ade3-8d8b-4a89-831f-ae1e2f8eaa96",
+        "id": "3833299d-7e2d-4612-90cc-7e80756b7b0c",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "澄乃　紬",
@@ -5543,7 +5483,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/sumino_tsumugi.jpg"
       },
       {
-        "id": "eb7388dc-d643-4b2c-94ed-c1e87333f3b2",
+        "id": "1d3890cd-0fd4-4df7-9929-a7c6899fb96c",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "朱　涼",
@@ -5558,7 +5498,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/akane_ryo.jpg"
       },
       {
-        "id": "c654d565-cd82-49d4-8d2f-0e6b69597dab",
+        "id": "41ac25f1-5ccf-40c5-bb3b-bfd6f5fcad76",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "織史　青",
@@ -5573,7 +5513,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/orifumi_ao.jpg"
       },
       {
-        "id": "6118a225-4536-4c1e-bfcf-570b09965dc4",
+        "id": "f8ed3cd8-531d-418f-b166-58e9168cc53e",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "花恋　こまち",
@@ -5588,7 +5528,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/karen_komachi.jpg"
       },
       {
-        "id": "f5bf09d7-a464-4000-9f3a-11946d1c6593",
+        "id": "205fcc09-f7b4-4fdb-8f3c-8e3b9834db9d",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "愛城　美紗",
@@ -5603,7 +5543,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/aishiro_misa.jpg"
       },
       {
-        "id": "b4d509bd-3e7a-4eab-893f-36cac12c9fdd",
+        "id": "ac506adb-a5e6-4cd1-8756-a0554bde5bf7",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "華楽　逸聖",
@@ -5618,7 +5558,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/karaku_issei.jpg"
       },
       {
-        "id": "a01dce91-8670-4f2d-98f9-dd5eb20bddc3",
+        "id": "cd3c5c5e-26a9-45b1-ab2c-035939bbe2ad",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "梨恋　あやめ",
@@ -5633,7 +5573,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/riren_ayame.jpg"
       },
       {
-        "id": "a7dd6f56-02e1-408f-9b66-f242a52fb9f5",
+        "id": "acbbeaad-8e7d-4955-93f1-d119279279ed",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "志凪　咲杜",
@@ -5648,7 +5588,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shinagi_sakuto.jpg"
       },
       {
-        "id": "5e13a104-e2b6-4697-8a1a-a14f7a302e12",
+        "id": "ff567031-7db6-44cf-965e-dd5e2eb8cd79",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "海玖里　粋",
@@ -5663,7 +5603,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mikuri_sui.jpg"
       },
       {
-        "id": "a0c6127c-3394-4e90-8794-91333df9d34e",
+        "id": "806bc1fa-a0a9-4e61-bea7-db3a2d755354",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "輝珠　ななせ",
@@ -5678,7 +5618,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kiju_nanase.jpg"
       },
       {
-        "id": "3fa09b35-3897-4ac4-92ae-f4f2f339ca61",
+        "id": "f9f047bc-e98f-495b-921f-d918eb6b3296",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "朝比奈　天",
@@ -5693,7 +5633,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asahina_ten.jpg"
       },
       {
-        "id": "5f0b8cb8-12b7-48a5-a374-d365e0c68c73",
+        "id": "812a56cf-d022-469f-83fd-ee4e41a98dcd",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "楓莉　かの",
@@ -5708,7 +5648,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/furi_kano.jpg"
       },
       {
-        "id": "28399d9b-2b50-4f1c-9716-0b46e801df0e",
+        "id": "c2520867-c312-4727-bcdf-bfebdc334a9f",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "輝星　成",
@@ -5723,7 +5663,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kisei_naru.jpg"
       },
       {
-        "id": "ed9b8e03-2df5-4028-b8da-08c52507f038",
+        "id": "30f86655-4973-44dd-a51e-0cd9f888b439",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "朝絵　咲名",
@@ -5738,7 +5678,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/asae_sana.jpg"
       },
       {
-        "id": "45ee4879-5210-460d-983d-144b2927b63a",
+        "id": "772d0b02-9a3e-44ed-8a19-ca1e4024f8c0",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "響　望歌",
@@ -5753,7 +5693,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hibiki_moka.jpg"
       },
       {
-        "id": "694d4569-497e-4944-8aa9-ef0cd8cc7fdb",
+        "id": "670d8b3b-fa66-4f47-a6f3-704801e8c69b",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "宇河　キラ",
@@ -5768,7 +5708,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ukawa_kira.jpg"
       },
       {
-        "id": "6f0362bb-ec45-4432-b10b-efbfc4cea937",
+        "id": "33ed58bc-a29b-42fb-b54b-36278a885f19",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "空輝　紫夕",
@@ -5783,7 +5723,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/soraki_shiyu.jpg"
       },
       {
-        "id": "d1b738b2-3b90-4ae8-b172-4c0a527702ce",
+        "id": "736806b2-5a41-48d1-a001-9e85bf1f9bd6",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "飛月　夏純",
@@ -5798,7 +5738,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/hizuki_kasumi.jpg"
       },
       {
-        "id": "b28a7c84-8213-4dc3-bd00-0f939c149e48",
+        "id": "6a7f5f70-0b73-4382-a109-fa30857f3b34",
         "troupe": "cosmos",
         "starType": 3,
         "nameJp": "ゆり　遥",
@@ -5818,7 +5758,7 @@
     "troupe": "special",
     "stars": [
       {
-        "id": "f069d63d-4118-4cba-ab0e-b93cd61c632d",
+        "id": "d960ed61-6328-4af1-894c-cf9d22d98721",
         "troupe": "special",
         "starType": 3,
         "nameJp": "英真　なおき",
@@ -5833,7 +5773,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/ema_naoki.jpg"
       },
       {
-        "id": "8a96ab84-d83a-458e-9b15-edb28550fd98",
+        "id": "917ab6bd-7dca-4c45-91ef-ba1681f9990a",
         "troupe": "special",
         "starType": 3,
         "nameJp": "京　三紗",
@@ -5848,7 +5788,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kyo_misa.jpg"
       },
       {
-        "id": "7186c809-76c8-4a60-89d7-2bd24216d24f",
+        "id": "cae4b903-5d67-43f5-9b74-de9b6ae0db6d",
         "troupe": "special",
         "starType": 3,
         "nameJp": "汝鳥　伶",
@@ -5863,22 +5803,22 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/natori_rei.jpg"
       },
       {
-        "id": "d53104e7-1d25-452a-8ca4-9da837035796",
+        "id": "ca38e2e6-a6ca-4967-b3b9-a0ca8cd7c154",
         "troupe": "special",
         "starType": 3,
         "nameJp": "一樹　千尋",
         "nameEn": "Chihiro Itsuki",
-        "firstStage": "全て",
-        "graduate": null,
+        "firstStage": "1973年4月「花かげろう」「ラ・ラ・ファンタシーク」",
+        "graduate": 59,
         "birthday": "5月11日",
-        "birthPlace": "165cm",
-        "height": "1973年4月「花かげろう」「ラ・ラ・ファンタシーク」",
-        "favoriteRole": "",
+        "birthPlace": "千葉県八千代市",
+        "height": "165cm",
+        "favoriteRole": "全て",
         "nickName": "HIRO",
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/itsuki_chihiro.jpg"
       },
       {
-        "id": "4193c6eb-d378-4e7f-bde2-68e500e2dd60",
+        "id": "89d83610-f248-4849-9082-7d2ccbc91ed1",
         "troupe": "special",
         "starType": 3,
         "nameJp": "夏美　よう",
@@ -5893,7 +5833,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/natsumi_yo.jpg"
       },
       {
-        "id": "3a73a53d-f371-4cd3-a73b-5bd829731d14",
+        "id": "855699a8-4447-4bb6-96ae-cf69fa7ad58d",
         "troupe": "special",
         "starType": 3,
         "nameJp": "万里　柚美",
@@ -5908,7 +5848,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/mari_yuzumi.jpg"
       },
       {
-        "id": "8a1e3f0e-b6f6-4cb6-9993-69263daa2ada",
+        "id": "79c77104-1184-4e4e-8a69-2876a5cd4e3a",
         "troupe": "special",
         "starType": 3,
         "nameJp": "五峰　亜季",
@@ -5923,7 +5863,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/itsumine_aki.jpg"
       },
       {
-        "id": "635ce524-97d8-4c1f-b3b3-caec96c885a0",
+        "id": "52975dc5-0a34-429f-b021-1e77ec944def",
         "troupe": "special",
         "starType": 3,
         "nameJp": "美穂　圭子",
@@ -5938,7 +5878,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/miho_keiko.jpg"
       },
       {
-        "id": "3d97130c-d414-46c3-a4df-9d4c53f0ebd0",
+        "id": "4536d739-ffb9-4578-b7f7-103b4f2edcef",
         "troupe": "special",
         "starType": 3,
         "nameJp": "高翔　みず希",
@@ -5953,7 +5893,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/takasho_mizuki.jpg"
       },
       {
-        "id": "3b48514e-2134-4e3c-8cf1-d5ba091c9593",
+        "id": "276a3b1a-e4f0-4a0e-aa62-cc7599a34900",
         "troupe": "special",
         "starType": 3,
         "nameJp": "悠真　倫",
@@ -5968,7 +5908,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/yuma_rin.jpg"
       },
       {
-        "id": "10dd9028-28f1-4a7a-988e-ff00dae6c4ae",
+        "id": "f9c44db5-1a3a-476e-8b33-8e02974ad8a4",
         "troupe": "special",
         "starType": 3,
         "nameJp": "凪七　瑠海",
@@ -5983,7 +5923,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/nagina_ruumi.jpg"
       },
       {
-        "id": "a0818dae-ea28-4107-ab4d-5bfd11c7efcf",
+        "id": "d8743599-2232-46a3-b3d1-9ee851f66df9",
         "troupe": "special",
         "starType": 3,
         "nameJp": "紫門　ゆりや",
@@ -5998,7 +5938,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/shimon_yuriya.jpg"
       },
       {
-        "id": "7d50d6a5-39cd-406f-8887-67158780e7d6",
+        "id": "bb670560-8001-45a4-8eac-d3cc10e9ecc3",
         "troupe": "special",
         "starType": 3,
         "nameJp": "凛城　きら",
@@ -6013,7 +5953,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/rinjo_kira.jpg"
       },
       {
-        "id": "7ce9a4d9-02a8-4737-adaf-4b8578f0c05d",
+        "id": "f926ec1d-5afd-4e85-baf3-94c59f1138e6",
         "troupe": "special",
         "starType": 3,
         "nameJp": "水美　舞斗",
@@ -6028,7 +5968,7 @@
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/minami_maito.jpg"
       },
       {
-        "id": "16f197a2-3a70-44da-8e94-1be264233127",
+        "id": "3b447a13-3cfd-4d16-8614-776a2c09a1e6",
         "troupe": "special",
         "starType": 3,
         "nameJp": "輝月　ゆうま",
@@ -6041,6 +5981,21 @@
         "favoriteRole": "「桜嵐記」の楠木正成",
         "nickName": "ゆうま、ぽん",
         "imgSrc": "https://kageki.hankyu.co.jp/star/images/kizuki_yuma.jpg"
+      },
+      {
+        "id": "88cb059b-0058-4814-ac71-d858f61c26a6",
+        "troupe": "special",
+        "starType": 3,
+        "nameJp": "瀬央　ゆりあ",
+        "nameEn": "Yuria Seo",
+        "firstStage": "2009年4月「Amour それは…」",
+        "graduate": 95,
+        "birthday": "6月15日",
+        "birthPlace": "広島県広島市",
+        "height": "172cm",
+        "favoriteRole": "今迄いただいた役全て",
+        "nickName": "せおっち、なおみ",
+        "imgSrc": "https://kageki.hankyu.co.jp/star/images/seo_yuria.jpg"
       }
     ]
   }

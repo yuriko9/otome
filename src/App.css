@@ -24,6 +24,13 @@ footer p {
   text-align: center;
 }
 
+a {
+  color: #956628;
+  text-decoration: none;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
 a.troupeLink.flower:hover {
   color: #e28194;
   border-bottom: 3px solid #e28194;

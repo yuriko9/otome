@@ -5,26 +5,26 @@ div.MuiBox-root {
   overflow-x: hidden;
 }
 
-table.starTable {
+.starTable {
   width: 100%;
   border-spacing: 0;
 }
 
-table.starTable th {
+.starTable th {
   width: 25%;
   border-bottom: solid 2px #bc9f65;
   padding: 10px 10px 10px 20px;
   text-align: start;
 }
 
-table.starTable td {
+.starTable td {
   width: 75%;
   border-bottom: solid 2px #bc9f65;
   padding: 10px 10px 10px 20px;
   text-align: start;
 }
 
-table.starTable tr:nth-child(odd) {
+.starTable tr:nth-child(odd) {
   background-color: #fff0d1;
 }
 

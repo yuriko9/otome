@@ -1,4 +1,4 @@
-nav.otomeNav {
+.otomeNav {
   background-color: #ffc679;
   height: 80px;
   width: 100%;
@@ -9,23 +9,20 @@ nav.otomeNav {
   align-items: center;
 }
 
-div.navTitle a {
+.navTitle a {
   color: white;
-  text-decoration: none;
-  cursor: pointer;
-  transition: color 0.3s;
 }
 
-div.navTitle a:hover {
+.navTitle a:hover {
   color: #956628;
 }
 
-div.navTitle svg {
+.navTitle svg {
   margin-left: 10px;
 }
 
 @media screen and (max-width: 450px) {
-  nav.otomeNav {
+  .otomeNav {
     font-size: 24px;
   }
 }

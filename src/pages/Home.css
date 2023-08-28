@@ -1,64 +1,47 @@
-div.topContainer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.title {
+  font-size: 30px;
+  text-align: center;
+  margin: 70px 0 100px 0;
 }
 
-div.topArea {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 800px;
-  height: 300px;
-  border-radius: 100px;
-  background-color: #fff4e0;
-}
-
-div.topDescription {
-  margin: 5px 0;
-  font-size: 25px;
-  font-weight: 200;
-  width: 700px;
-  height: 100px;
+.topContainer {
   text-align: center;
 }
 
-ul.topLinkList {
+.linkList {
+  font-size: 25px;
   display: flex;
   justify-content: center;
-  align-items: center;
-  list-style: none;
   padding: 0;
 }
 
-ul.topLinkList svg {
-  margin-right: 10px;
+.linkList li {
+  list-style: none;
 }
 
-ul.topLinkList a {
-  color: #956628;
+.linkList a {
+  list-style: none;
   padding: 10px 20px;
-  text-decoration: none;
-  transition: all 0.3s;
 }
 
-ul.topLinkList a:hover {
+.linkList a:hover {
   color: #7c592c;
   border-bottom: 3px solid #7c592c;
 }
 
+.linkList svg {
+  margin-right: 10px;
+}
+
 @media screen and (max-width: 768px) {
-  div.topDescription {
-    width: 80%;
-    height: 280px;
+  .topContainer {
+    min-height: 550px;
   }
 
-  ul.topLinkList {
+  .linkList {
     display: block;
   }
-
-  ul.topLinkList li {
-    margin-bottom: 20px;
+  .linkList li {
+    margin: 20px;
   }
 }

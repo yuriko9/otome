@@ -1,18 +1,18 @@
-div.starContainer {
+.starContainer {
   margin: 40px auto 0;
   padding-bottom: 50px;
   width: 1050px;
 }
 
-div.starContainer:last-child {
+.starContainer:last-child {
   padding-bottom: 150px;
 }
 
-div.starContainer h1 {
+.starContainer h1 {
   padding-left: 30px;
 }
 
-ul.starList {
+.starList {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   padding: 20px 0;
@@ -21,7 +21,7 @@ ul.starList {
   list-style: none;
 }
 
-ul.starList li {
+.starList li {
   width: 250px;
   position: relative;
   padding: 1.2em;
@@ -32,95 +32,95 @@ ul.starList li {
   border-radius: 5px;
 }
 
-ul.starList.flower li {
+.starList.flower li {
   background-color: #e28194;
 }
 
-ul.starList.flower li:hover {
+.starList.flower li:hover {
   background-color: #ecb6c1;
   cursor: pointer;
 }
 
-ul.starList.moon li {
+.starList.moon li {
   background-color: #f4c33e;
 }
 
-ul.starList.moon li:hover {
+.starList.moon li:hover {
   background-color: #f9de95;
   cursor: pointer;
 }
 
-ul.starList.snow li {
+.starList.snow li {
   background-color: #8ab3a1;
 }
 
-ul.starList.snow li:hover {
+.starList.snow li:hover {
   background-color: #b1d4c5;
   cursor: pointer;
 }
 
-ul.starList.star li {
+.starList.star li {
   background-color: #5cb7d4;
 }
 
-ul.starList.star li:hover {
+.starList.star li:hover {
   background-color: #a9d5e3;
   cursor: pointer;
 }
 
-ul.starList.cosmos li {
+.starList.cosmos li {
   background-color: #b179c4;
 }
 
-ul.starList.cosmos li:hover {
+.starList.cosmos li:hover {
   background-color: #dbbce7;
   cursor: pointer;
 }
 
-ul.starList.special li {
+.starList.special li {
   background-color: #574a8a;
 }
 
-ul.starList.special li:hover {
+.starList.special li:hover {
   background-color: #9387c4;
   cursor: pointer;
 }
 
-ul.starList svg {
+.starList svg {
   margin-right: 15px;
 }
 
 @media screen and (max-width: 1050px) {
-  div.starContainer {
+  .starContainer {
     width: 100%;
   }
 }
 
 @media screen and (max-width: 950px) {
-  div.starContainer {
+  .starContainer {
     width: 80%;
   }
 
-  div.starContainer h1 {
+  .starContainer h1 {
     padding-left: 0px;
     text-align: center;
   }
 
-  ul.starList {
+  .starList {
     grid-template-columns: 1fr 1fr;
   }
 }
 
 @media screen and (max-width: 768px) {
-  div.starContainer h1 {
+  .starContainer h1 {
     font-size: 26px;
   }
 
-  ul.starList {
+  .starList {
     grid-template-columns: 1fr;
   }
 
-  ul.starList li {
+  .starList li {
     width: 250px;
     position: relative;
     padding: 1em;

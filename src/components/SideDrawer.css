@@ -1,4 +1,4 @@
-div.drawerMenu {
+.drawerMenu {
   position: relative;
   bottom: 60px;
   left: 40px;
@@ -9,15 +9,14 @@ div.drawerMenu {
   background-color: #ffc679;
   border-radius: 50%;
   font-size: 24px;
-  transition: all 0.3s;
 }
 
-div.drawerMenu:hover {
+.drawerMenu:hover {
   color: #ffc679;
   background-color: white;
 }
 
-div.drawerMenu svg {
+.drawerMenu svg {
   padding-top: 10px;
   margin-right: 0;
   cursor: pointer;
@@ -34,85 +33,76 @@ nav.EZDrawer__container.troupeDrawer {
   /* opacity: 0.8; */
 }
 
-div.close-icon {
+.close-icon {
   text-align: right;
 }
 
-div.close-icon span {
+.close-icon span {
   font-size: 30px;
   cursor: pointer;
   margin: 0 5px;
 }
 
-div.drawerTitle {
+.drawerTitle {
   font-size: 26px;
   height: 70px;
   line-height: 70px;
 }
 
-div.drawerTitle a {
-  color: #956628;
-  text-decoration: none;
+.drawerTitle a {
   padding: 20px 40px;
-  cursor: pointer;
-  transition: all 0.3s;
 }
 
-div.drawerTitle a:hover {
+.drawerTitle a:hover {
   color: #dbad72;
   text-decoration: none;
-  cursor: pointer;
 }
 
-ul.drawerTroupeList {
+.drawerTroupeList {
   margin-top: 40px;
   padding: 0;
   list-style: none;
 }
 
-ul.drawerTroupeList li {
+.drawerTroupeList li {
   height: 70px;
   line-height: 70px;
 }
 
-ul.drawerTroupeList a {
+.drawerTroupeList a {
   display: block;
   margin: 8px 50px;
-  color: #956628;
-  text-decoration: none;
-  cursor: pointer;
   border-bottom: 1px solid #956628;
-  transition: all 0.3s;
 }
 
-ul.drawerTroupeList a:hover {
+.drawerTroupeList a:hover {
   color: #7c592c;
   border-bottom: 3px solid #7c592c;
 }
 
 @media screen and (max-width: 768px) {
-  div.drawerMenu {
+  .drawerMenu {
     position: relative;
     left: 30px;
   }
 }
 
 @media screen and (max-width: 450px) {
-  div.drawerMenu {
+  .drawerMenu {
     position: relative;
     left: 20px;
   }
 
-  ul.drawerTroupeList {
+  .drawerTroupeList {
     margin-top: 10px;
   }
 
-  ul.drawerTroupeList li {
+  .drawerTroupeList li {
     height: 50px;
     line-height: 50px;
   }
 
-  ul.drawerTroupeList a {
-    margin: 10px 70px 0px 70px;
+  .drawerTroupeList a {
+    margin: 10px 50px 0px 50px;
   }
 }
